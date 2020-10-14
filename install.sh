@@ -10,12 +10,12 @@ echo "Checking Valid Product Serial"
 cat ./OEM.inf
 sleep 3s
 echo "Searching for necessary files"
-find /usr/share/icons/ -"Windows 98"
-find /usr/share/icons/ -"Windows 98 (16 bits)"
+find /usr/share/icons/ -"Windows 95"
 echo 
 echo "Copyring Files:"
-mkdir /usr/share/backgrounds/Plus98
-mkdir /usr/share/fonts/Win98
+mkdir /usr/share/backgrounds/Plus95
+mkdir /usr/share/fonts/Win95
+tar -x -v -f PLUS_01.CAB /usr/share/fonts/Win95
 cp -r -v Plus98/ABALC.TTF /usr/share/fonts/Win98/
 cp -r -v Plus98/ARIAL.TTF /usr/share/fonts/Win98/
 cp -r -v Plus98/ARIALBD.TTF /usr/share/fonts/Win98/
