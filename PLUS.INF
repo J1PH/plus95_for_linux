@@ -1,0 +1,1065 @@
+[Source Media Descriptions]
+ "1","Microsoft Plus! CD-ROM","plus_1.CAB","."
+ "2","Microsoft Plus! CD-ROM","plus_2.CAB","."
+ "3","Microsoft Plus! CD-ROM","plus_3.CAB","."
+ "4","Microsoft Plus! CD-ROM","plus_4.CAB","."
+ "5","Microsoft Plus! CD-ROM","plus_5.CAB","."
+ "6","Microsoft Plus! CD-ROM","plus_6.CAB","."
+ "7","Microsoft Plus! CD-ROM","plus_7.CAB","."
+[Default File Settings]
+"STF_BACKUP"     = "*"
+"STF_COPY"       = "YES"
+"STF_DECOMPRESS" = "CABINET"
+"STF_OVERWRITE"  = "ALWAYS"
+"STF_READONLY"   = ""
+"STF_ROOT"       = ""
+"STF_SETTIME"    = "YES"
+"STF_TIME"       = ""
+"STF_VITAL"      = "YES"
+"STF_DATE"       = ""
+
+[ExtCompression]
+"d16" = 1,DSKAPI16.DLL,,,,1995-08-24,,1033,,,,,,,SHARED,194876,SYSTEM,194876,,4.40.0.310,
+"d32" = 1,DSKAPI32.DLL,,,,1995-08-24,,1033,,,,,,,SHARED,21504,SYSTEM,21504,,4.40.0.310,
+"cpa" = 2,CMPAGENT.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,238864,,238864,,4.40.0.310,
+"bin" = 1,DRVPLUS.BIN,,DRVBIN.W95,,1995-08-24,,1033,,,,DRVSPACE.BIN,,,,64375,,64375,,4.40.0.310,
+"dbl" = 1,DRVPLUS.BIN,,DBLBIN.W95,,1995-08-24,,1033,,,,DBLSPACE.BIN,,,,64375,,64375,,4.40.0.310,
+"sys" = 1,DRVSPACE.SYS,,DRVSYS.W95,,1995-08-24,,,,,,,,,,1911,,1911,,,
+"dys" = 1,DRVSPACE.SYS,,DBLSYS.W95,,1995-08-24,,,,,,DBLSPACE.SYS,,,,1911,,1911,,,
+"vxd" = 1,DRVSPACX.VXD,,DRVVXD.W95,,1995-08-24,,1034,,,,,,,SHARED,61719,SYSTEM,61719,,4.40.0.310,
+"mri" = 1,MRCI2.VXD,,MRCI2VXD.W95,,1995-08-24,,1033,,,,,,,SHARED,53394,SYSTEM,53394,,4.40.0.310,
+"dxe" = 1,DRVSPACE.EXE,,DRVEXE.W95,,1995-08-24,,1034,,,,,,,SHARED,390432,,390432,,4.40.0.310,
+"dhp" = 2,PLUSSPAC.HLP,,,,1995-08-24,,,,,,,,,SHARED,80138,,80138,,,
+"dct" = 2,PLUSSPAC.CNT,,,,1995-08-24,,,,,,,,,SHARED,1310,,1310,,,
+"cab" = 2,MINI.CAB,,,,1995-08-24,,,,,,,,,SHARED,444643,,444643,,,
+"uda" = 2,UPGRDALM.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,44032,,44032,,4.40.0.310,
+"ctb" = 2,COMPEXT.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,124928,SYSTEM,124928,,4.40.0.310,
+"bd1" = 2,NOCOMP.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,72352,,72352,,4.40.0.310,
+"bd2" = 2,NOCOMP.INF,,,,1995-08-24,,,,,,,,,SHARED,4615,,4615,,,
+"dat" = 2,DRVSPACE.DAT,,,,1995-08-24,,,,,,,,,SHARED,1386,,1386,,,
+
+[DiskTools]
+"mnt" = 2,DSKMAINT.DLL,,DSKMAINT.W95,,1995-08-24,,1034,,,,,,,SHARED,189648,SYSTEM,189648,,4.40.0.310,
+"sdw" = 2,SCANDSKW.EXE,,SCANDSKW.W95,,1995-08-24,,1034,,,,,,,SHARED,4880,,4880,,4.40.0.310,
+"sdd" = 2,SCANPLUS.EXE,,SCANDISK.W95,,1995-08-24,,,,,,SCANDISK.EXE,,,SHARED,139985,,139985,,,
+
+[SystemAgent]
+"sui" = 2,SYSAGENT.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,128000,,128000,,4.40.0.310,
+"shp" = 2,SYSAGENT.HLP,,,,1995-08-24,,,,,,,,,SHARED,66692,,66692,,,
+"sct" = 2,SYSAGENT.CNT,,,,1995-08-24,,,,,,,,,SHARED,712,,712,,,
+"sag" = 2,SAGE.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,32768,SYSTEM,32768,,4.40.0.310,
+"sdl" = 2,SAGE.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,71680,SYSTEM,71680,,4.40.0.310,
+"cdt" = 2,SAGE.DAT,,,,1995-08-24,,,,,,SAGE.DAT,,,SHARED,6858,,6858,,,
+"cdf" = 2,SAGE.DAT,,,,1995-08-24,,,,,,SAGE.DEF,,,SHARED,6858,,6858,,,
+"ddt" = 2,DS3UPGRD.DAT,,,,1995-08-24,,,,,,SAGE.DAT,,,SHARED,8226,,8226,,,
+"ddf" = 2,DS3UPGRD.DAT,,,,1995-08-24,,,,,,SAGE.DEF,,,SHARED,8226,,8226,,,
+"adt" = 2,SAGE24.DAT,,,,1995-08-24,,,,,,SAGE.DAT,,,SHARED,6858,,6858,,,
+"adf" = 2,SAGE24.DAT,,,,1995-08-24,,,,,,SAGE.DEF,,,SHARED,6858,,6858,,,
+"bdt" = 2,DS3UPG24.DAT,,,,1995-08-24,,,,,,SAGE.DAT,,,SHARED,8226,,8226,,,
+"bdf" = 2,DS3UPG24.DAT,,,,1995-08-24,,,,,,SAGE.DEF,,,SHARED,8226,,8226,,,
+"sxd" = 2,SAGE.VXD,,,,1995-08-24,,1033,,,,,,,SHARED,6171,SYSTEM,6171,,4.40.0.310,
+"sda" = 2,DISKALM.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,53760,,53760,,4.40.0.310,
+
+[I_Mail_exe]
+ 7,INETAB32.DLL,,,,1995-08-24,,2058,,,,,,,SHARED,21504,SYSTEM,21504,,4.40.410.85,
+ 7,MINET32.DLL,,,,1995-08-24,,2058,,,,,,,SHARED,295936,SYSTEM,295936,,4.40.410.85,
+ 7,ISO88591.TRN,,,,1995-08-24,,,,,,,,,SHARED,601,,601,,,
+ 7,NORWEG.TRN,,,,1995-08-24,,,,,,,,,SHARED,601,,601,,,
+ 7,SWEDISH.TRN,,,,1995-08-24,,,,,,,,,SHARED,601,,601,,,
+ 7,USASCII.TRN,,,,1995-08-24,,,,,,,,,SHARED,601,,601,,,
+
+[I_Mail_help]
+ 7,INT-MAIL.HLP,,,,1995-08-24,,,,,,,,,SHARED,42295,,42295,,,
+ 7,INT-MAIL.CNT,,,,1995-08-24,,,,,,,,,SHARED,1504,,1504,,,
+
+[I_Mail_inf]
+"jsw" = 7,INETMAIL.INF,,,,1995-08-24,,,,,,,,,SHARED,1073,,1073,,,
+
+[I_Web_exe]
+"ixe" = 7,IEXPLORE.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,615936,,615936,,4.40.0.308,
+"idl" = 7,URL.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,109056,SYSTEM,109056,,4.40.0.308,
+"ioh" = 1,INETSTUB.TXT<The Internet.oh!>,,,!COPY,1995-05-26,,,,,REMOVE,,,,SHARED,2,,2,,,
+
+[I_Web_dll]
+ 7,SECBASIC.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,23552,SYSTEM,23552,,4.40.0.308,
+
+[I_RealAudio]
+ 7,RA.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,122608,,122608,,1.0.0.11,
+ 7,PNFRONT.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,184512,,184512,,1.0.0.12,
+ 7,PNCLIENT.EXE,,,,1995-08-24,,,,,,,,,SHARED,7344,,7344,,,
+
+[I_RealAudio_help]
+ 7,RAPLAYER.HLP,,,,1995-08-24,,,,,,,,,SHARED,13282,,13282,,,
+
+[I_Web_help]
+ 7,IEXPLORE.HLP,,,,1995-08-24,,,,,,,,,SHARED,74414,,74414,,,
+ 7,IEXPLORE.CNT,,,,1995-08-24,,,,,,,,,SHARED,1327,,1327,,,
+
+[I_Text]
+"net" = 7,INTERNET.TXT,,,,1995-08-24,,,,,,,,,SHARED,11574,,11574,,,
+
+[I_Wiz_exe]
+"wxe" = 7,INETWIZ.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,13824,,13824,,4.40.0.308,
+"wpl" = 7,INETCPL.CPL,,,,1995-08-24,,1034,,,,,,,SHARED,17408,SYSTEM,17408,,4.40.0.308,
+"dmo" = 7,DIALMON.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,19968,,19968,,4.40.0.308,
+"whp" = 7,INTERWIZ.HLP,,,,1995-08-24,,,,,,,,,SHARED,19294,,19294,,,
+
+[I_Wiz_misc]
+ 7,INETCFG.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,93184,SYSTEM,93184,,4.40.0.308,
+ 7,INET16.DLL,,,,1995-08-24,,1033,,,,,,,SHARED,6016,SYSTEM,6016,,4.40.0.308,
+
+[I_Wiz_clean]
+ 1,INETCFG.DLL,,,!COPY,,,,,,REMOVE,,,,SHARED,0,,,,,
+ 1,INET16.DLL,,,!COPY,,,,,,REMOVE,,,,SHARED,0,,,,,
+
+[I_Scr_Sys]
+"sm2" = 7,SMMSCRPT.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,48128,SYSTEM,48128,,4.40.0.305,
+"sm1" = 7,SMMSETUP.DLL,,,,1995-08-24,,1033,,,,,,,SHARED,5632,SYSTEM,5632,,4.40.0.305,
+
+[I_Scr_Help]
+ 7,SCRIPTER.HLP,,,,1995-08-24,,,,,,,,,SHARED,18073,,18073,,,
+
+[I_Scr_Inf]
+ 7,RNAPLUS.INF,,,,1995-08-24,,,,,,,,,SHARED,7104,,7104,,,
+
+[I_Scr_Exe]
+"sxe" = 7,SCRIPTER.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,20480,,20480,,4.40.0.305,
+"sdc" = 7,SCRIPT.DOC,,,,1995-08-24,,,,,,,,,SHARED,44032,,44032,,,
+
+[I_Scr_Access]
+ 7,SLIP.SCP,,,,1995-08-24,,,,,,,,,SHARED,2375,,2375,,,
+ 7,CIS.SCP,,,,1995-08-24,,,,,,,,,SHARED,733,,733,,,
+ 7,PPPMENU.SCP,,,,1995-08-24,,,,,,,,,SHARED,2815,,2815,,,
+ 7,SLIPMENU.SCP,,,,1995-08-24,,,,,,,,,SHARED,2813,,2813,,,
+
+[I_MSN]
+"msn" = 7,MOS105.INF,,,,1995-08-24,,,,,,,,,SHARED,4494,,4494,,,
+ 7,RBILLADD.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,82944,,82944,,4.1.0.5699,
+ 7,RCCAPI.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,30208,,30208,,4.1.0.5699,
+ 7,RENGCT.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,72704,,72704,,4.1.0.5699,
+ 7,RGUIDE.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,118272,,118272,,4.1.0.5699,
+ 7,RMCM.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,116224,,116224,,4.1.0.5699,
+ 7,RMPCCL.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,88064,,88064,,4.1.0.5699,
+ 7,RMSN.CNT,,,,1995-08-24,,,,,,,,,SHARED,14315,,14315,,,
+ 7,RMSNINT.HLP,,,,1995-08-24,,,,,,,,,SHARED,80210,,80210,,,
+ 7,RMSNPSS.HLP,,,,1995-08-24,,,,,,,,,SHARED,48755,,48755,,,
+ 7,RMSNVER.TXT,,,,1995-08-24,,,,,,,,,SHARED,4,,4,,,
+ 7,RPHONE.PBK,,,,1995-08-24,,,,,,,,,SHARED,44818,,44818,,,
+ 7,RSIGNUP.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,168448,,168448,,4.1.0.5699,
+ 7,RSUUTIL.DLL,,,,1995-08-24,,1033,,,,,,,SHARED,19456,,19456,,4.1.0.5699,
+
+[RNAServer]
+"rna" = 2,RNASERV.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,22016,SYSTEM,22016,,4.50.0.0,
+
+[Pinball_exe]
+"pxe" = 2,PINBALL.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,354816,,354816,,4.40.0.310,
+
+[Pinball_hlp]
+ 3,PINBALL.HLP,,,,1995-08-24,,,,,,,,,SHARED,9890,,9890,,,
+ 3,PINBALL.CNT,,,,1995-08-24,,,,,,,,,SHARED,138,,138,,,
+
+[Pinball_misc]
+ 2,FONT.DAT,,,,1995-08-24,,,,,,,,,SHARED,3947,,3947,,,
+ 2,PINBALL.DAT,,,,1995-08-24,,,,,,,,,SHARED,928700,,928700,,,
+ 2,WMCONFIG.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,285696,,285696,,1.0.0.0,
+ 2,WAVEMIX.INF,,,,1995-08-24,,,,,,,,,SHARED,16563,,16563,,,
+ 2,PINBALL.MID,,,,1995-08-24,,,,,,,,,SHARED,108607,,108607,,,
+ 2,PINBALL2.MID,,,,1995-08-24,,,,,,,,,SHARED,28888,,28888,,,
+ 2,PINBALL.DOC,,,,1995-08-24,,,,,,,,,SHARED,65024,,65024,,,
+ 2,MESA.BMP,,,,1995-08-24,,,,,,,,,SHARED,339178,,339178,,,
+
+[Pinball_wav]
+ 2,SOUND1.WAV,,,,1995-08-24,,,,,,,,,SHARED,55490,,55490,,,
+ 2,SOUND104.WAV,,,,1995-08-24,,,,,,,,,SHARED,1226,,1226,,,
+ 2,SOUND105.WAV,,,,1995-08-24,,,,,,,,,SHARED,1968,,1968,,,
+ 2,SOUND108.WAV,,,,1995-08-24,,,,,,,,,SHARED,7754,,7754,,,
+ 2,SOUND12.WAV,,,,1995-08-24,,,,,,,,,SHARED,4296,,4296,,,
+ 2,SOUND131.WAV,,,,1995-08-24,,,,,,,,,SHARED,1290,,1290,,,
+ 2,SOUND14.WAV,,,,1995-08-24,,,,,,,,,SHARED,3002,,3002,,,
+ 2,SOUND16.WAV,,,,1995-08-24,,,,,,,,,SHARED,1046,,1046,,,
+ 2,SOUND17.WAV,,,,1995-08-24,,,,,,,,,SHARED,2090,,2090,,,
+ 2,SOUND18.WAV,,,,1995-08-24,,,,,,,,,SHARED,3986,,3986,,,
+ 2,SOUND19.WAV,,,,1995-08-24,,,,,,,,,SHARED,5230,,5230,,,
+ 2,SOUND20.WAV,,,,1995-08-24,,,,,,,,,SHARED,8650,,8650,,,
+ 2,SOUND21.WAV,,,,1995-08-24,,,,,,,,,SHARED,9194,,9194,,,
+ 2,SOUND22.WAV,,,,1995-08-24,,,,,,,,,SHARED,7376,,7376,,,
+ 2,SOUND24.WAV,,,,1995-08-24,,,,,,,,,SHARED,12106,,12106,,,
+ 2,SOUND25.WAV,,,,1995-08-24,,,,,,,,,SHARED,25704,,25704,,,
+ 3,SOUND26.WAV,,,,1995-08-24,,,,,,,,,SHARED,7306,,7306,,,
+ 3,SOUND27.WAV,,,,1995-08-24,,,,,,,,,SHARED,20242,,20242,,,
+ 3,SOUND28.WAV,,,,1995-08-24,,,,,,,,,SHARED,8650,,8650,,,
+ 3,SOUND29.WAV,,,,1995-08-24,,,,,,,,,SHARED,10364,,10364,,,
+ 3,SOUND3.WAV,,,,1995-08-24,,,,,,,,,SHARED,22858,,22858,,,
+ 3,SOUND30.WAV,,,,1995-08-24,,,,,,,,,SHARED,22570,,22570,,,
+ 3,SOUND34.WAV,,,,1995-08-24,,,,,,,,,SHARED,1520,,1520,,,
+ 3,SOUND35.WAV,,,,1995-08-24,,,,,,,,,SHARED,19498,,19498,,,
+ 3,SOUND36.WAV,,,,1995-08-24,,,,,,,,,SHARED,33848,,33848,,,
+ 3,SOUND38.WAV,,,,1995-08-24,,,,,,,,,SHARED,13024,,13024,,,
+ 3,SOUND39.WAV,,,,1995-08-24,,,,,,,,,SHARED,28282,,28282,,,
+ 3,SOUND4.WAV,,,,1995-08-24,,,,,,,,,SHARED,16626,,16626,,,
+ 3,SOUND42.WAV,,,,1995-08-24,,,,,,,,,SHARED,29140,,29140,,,
+ 3,SOUND43.WAV,,,,1995-08-24,,,,,,,,,SHARED,22796,,22796,,,
+ 3,SOUND45.WAV,,,,1995-08-24,,,,,,,,,SHARED,9770,,9770,,,
+ 3,SOUND49.WAV,,,,1995-08-24,,,,,,,,,SHARED,1876,,1876,,,
+ 3,SOUND49D.WAV,,,,1995-08-24,,,,,,,,,SHARED,3330,,3330,,,
+ 3,SOUND5.WAV,,,,1995-08-24,,,,,,,,,SHARED,3180,,3180,,,
+ 3,SOUND50.WAV,,,,1995-08-24,,,,,,,,,SHARED,12074,,12074,,,
+ 3,SOUND54.WAV,,,,1995-08-24,,,,,,,,,SHARED,18250,,18250,,,
+ 3,SOUND55.WAV,,,,1995-08-24,,,,,,,,,SHARED,21890,,21890,,,
+ 3,SOUND57.WAV,,,,1995-08-24,,,,,,,,,SHARED,30502,,30502,,,
+ 3,SOUND58.WAV,,,,1995-08-24,,,,,,,,,SHARED,3408,,3408,,,
+ 3,SOUND7.WAV,,,,1995-08-24,,,,,,,,,SHARED,26442,,26442,,,
+ 3,SOUND8.WAV,,,,1995-08-24,,,,,,,,,SHARED,2102,,2102,,,
+ 3,SOUND9.WAV,,,,1995-08-24,,,,,,,,,SHARED,20098,,20098,,,
+
+[TT_DosBox]
+"luc" = 3,LUCON.TTF,,,,1995-08-24,,,,,,,,,SHARED,107820,SYSTEM,107820,,0.91.0.0,
+
+[ANI_CUR]
+ 3,APPLE.ANI,,,,1995-08-24,,,,,,,,,SHARED,3236,,3236,,,
+ 3,BANANA.ANI,,,,1995-08-24,,,,,,,,,SHARED,11904,,11904,,,
+ 3,COIN.ANI,,,,1995-08-24,,,,,,,,,SHARED,7114,,7114,,,
+ 3,DINOSAUR.ANI,,,,1995-08-24,,,,,,,,,SHARED,4804,,4804,,,
+ 3,FILLITUP.ANI,,,,1995-08-24,,,,,,,,,SHARED,14936,,14936,,,
+ 3,HAND.ANI,,,,1995-08-24,,,,,,,,,SHARED,3292,,3292,,,
+ 3,HORSE.ANI,,,,1995-08-24,,,,,,,,,SHARED,18722,,18722,,,
+ 3,PIANO.ANI,,,,1995-08-24,,,,,,,,,SHARED,4784,,4784,,,
+ 3,COFFEE.ANI,,,,1995-08-24,,,,,,,,,SHARED,15644,,15644,,,
+ 3,SIZENESW.ANI,,,,1995-08-24,,,,,,,,,SHARED,818,,818,,,
+ 3,SIZENS.ANI,,,,1995-08-24,,,,,,,,,SHARED,818,,818,,,
+ 3,SIZENWSE.ANI,,,,1995-08-24,,,,,,,,,SHARED,818,,818,,,
+ 3,SIZEWE.ANI,,,,1995-08-24,,,,,,,,,SHARED,818,,818,,,
+ 3,TV.ANI,,,,1995-08-24,,,,,,,,,SHARED,11040,,11040,,,
+ 3,WINFLAG.ANI,,,,1995-08-24,,,,,,,,,SHARED,3254,,3254,,,
+
+[Target]
+"pdl" = 1,PLUS.DLL,,,,1995-08-24,,1034,,,,PLUS!.DLL,,,SHARED,126464,SYSTEM,126464,,4.40.0.310,
+
+[SetupFiles]
+ 1,ACMSETUP.EXE,,,,1995-08-24,,1034,,,,INSTALAR.EXE,!ROOT,,SHARED,338432,SYSTEM,338432,,1.20.0.1915,
+ 1,ACMSETUP.HLP,,,,1995-08-24,,,,,,,,,SHARED,15073,,15073,,,
+ 1,PLUS.INF,,,,1995-08-24,!DECOMPRESS,,,,,,,,SHARED,100000,SYSTEM,100000,,,
+ 1,PLUS.STF,,,,1995-08-24,,,,,,SETUP.STF,,,SHARED,121520,SYSTEM,121520,,,
+ 1,MSSETUP.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,251392,SYSTEM,251392,,1.20.0.1915,
+ 1,PLUS.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,126464,SYSTEM,126464,,4.40.0.310,
+ 1,SETUP.INI,,,,1995-08-24,!DECOMPRESS,,,,,,,,SHARED,149,,149,,,
+ 1,SETUP.TDF,,,,1995-08-24,!DECOMPRESS,,,,,,,,SHARED,84,,84,,,
+"inf" = 1,PLUSLAYT.INF,,,,1995-08-24,!DECOMPRESS,,,,,,,,SHARED,50000,,50000,,,
+
+[Enhanced]
+"cll" = 3,COOL.DLL<Cool.dll>,,,,1995-08-24,,1033,,,,,,,SHARED,373536,SYSTEM,373536,,4.40.0.310,
+
+[Splash]
+"lgo" = 3,LOGO.SYS,,,,1995-08-24,,,,,,,,,,129078,,129078,,,
+
+[HelpFiles]
+ 3,PLUS!.HLP,,,,1995-08-24,,,,,,,,,SHARED,195947,,195947,,,
+ 3,MSPLUS.CNT,,,,1995-08-24,,,,,,,,,SHARED,1977,,1977,,,
+
+[SupportNotes]
+"rme" = 1,LEAME.TXT,,,,1995-08-24,!DECOMPRESS,,,,,,,,SHARED,23718,,23718,,,
+"sup" = 1,SOPORTE.TXT,,,,1995-08-24,,,,,,,,,SHARED,26405,,26405,,,
+"btw" = 1,DRVSPACE.TXT,,,,1995-08-24,,,,,,,,,SHARED,14811,,14811,,,
+
+[VisualTab]
+ 3,PLUSTAB.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,37888,SYSTEM,37888,,4.40.0.310,
+
+[MT_Engine]
+"mte" = 3,THEMES.EXE,,,,1995-08-24,,1034,,,,,,,SHARED,87552,,87552,,4.40.0.310,
+"mtc" = 3,THEMES.CPL,,,,1995-08-24,,1034,,,,,,,SHARED,15360,SYSTEM,15360,,4.40.0.310,
+"mtd" = 3,DEFAULT.THM<Predeterminado de Windows.theme>,,,,1995-08-24,,,,,,,,,SHARED,4199,,4199,,,
+"sos" = 3,RESTORE.REG,,,,1995-08-24,,,,,,,,,SHARED,4293,,4293,,,
+"jpg" = 3,MSJPEG32.DLL,,,,1995-08-24,,1033,,,,,,,SHARED,104448,SYSTEM,104448,,4.0.0.0,
+"flt" = 3,JPEGIM32.FLT,,,,1995-08-24,,1034,,,,,,,SHARED,26624,SYSTEM,26624,,4.0.0.0,
+
+[MT_BogusFiles]
+ 1,DING.WAV<Ding.wav>,,,!COPY,,,,,,,,,,,0,,0,,,
+ 1,TADA.WAV<Tada.wav>,,,!COPY,,,,,,,,,,,0,,0,,,
+ 1,CHORD.WAV<Chord.wav>,,,!COPY,,,,,,,,,,,0,,0,,,
+ 1,MS_SOUND.WAV<The Microsoft Sound.wav>,,,!COPY,,,,,,,,,,,0,,0,,,
+
+[MT_ss]
+ 3,WILDLB32.DLL,,,,1995-08-24,,1033,,,,,,,SHARED,7680,SYSTEM,7680,,4.40.0.310,
+ 3,WL32DLL.DLL,,,,1995-08-24,,1034,,,,,,,SHARED,148992,SYSTEM,148992,,4.40.0.310,
+
+[MT_Windows95_thm]
+ 3,WIN95.THM<Windows 95 (256 colores).theme>,,,,1995-08-24,,,,,,,,,SHARED,5251,,5251,,,
+
+[MT_Windows95_bmp]
+ 3,WI_WALL.JPG<Windows 95-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,42497,,42497,,,
+ 3,WI_WALL.PAL<Windows 95-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 3,WI_COMP.ICO<Windows 95-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,WI_NET.ICO<Windows 95-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,WI_RECYE.ICO<Windows 95-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,WI_RECYF.ICO<Windows 95-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+
+[MT_Windows95_cur]
+ 3,WI_BUSY.ANI<Windows 95-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,13278,,13278,,,
+ 3,WI_WAIT.ANI<Windows 95-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,13310,,13310,,,
+ 3,WI_ARROW.CUR<Windows 95-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_BEAM.CUR<Windows 95-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_CROSS.CUR<Windows 95-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_HELP.CUR<Windows 95-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_MOVE.CUR<Windows 95-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_NESW.CUR<Windows 95-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_NO.CUR<Windows 95-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_NS.CUR<Windows 95-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_NWSE.CUR<Windows 95-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_PEN.CUR<Windows 95-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_UP.CUR<Windows 95-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,WI_WE.CUR<Windows 95-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+
+[MT_Windows95_scr]
+ 3,BLOCKS.SCR<Windows 95.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,103424,SYSTEM,103424,,4.40.0.310,
+
+[MT_Windows95_ttf]
+"wi1" = 3,NWGTHC.TTF,,,,1995-08-24,,,,,,,,,SHARED,66052,SYSTEM,66052,,1.0.0.0,
+"wi2" = 3,NWGTHCB.TTF,,,,1995-08-24,,,,,,,,,SHARED,66512,SYSTEM,66512,,1.0.0.0,
+"wi3" = 3,NWGTHCI.TTF,,,,1995-08-24,,,,,,,,,SHARED,61280,SYSTEM,61280,,1.0.0.0,
+
+[MT_Windows95_wav16]
+ 3,WI_ASTRX.WAV<Windows 95-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,11750,,11750,,,
+ 3,WI_BEEP.WAV<Windows 95-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,28922,,28922,,,
+ 3,WI_DEFAU.WAV<Windows 95-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,29938,,29938,,,
+ 3,WI_EMPTY.WAV<Windows 95-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,31818,,31818,,,
+ 3,WI_ERROR.WAV<Windows 95-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,34474,,34474,,,
+ 3,WI_EXCLA.WAV<Windows 95-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,13924,,13924,,,
+ 3,WI_EXIT.WAV<Windows 95-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,135398,,135398,,,
+ 3,WI_MAX.WAV<Windows 95-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,11330,,11330,,,
+ 3,WI_MENU.WAV<Windows 95-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,6278,,6278,,,
+ 3,WI_MENUC.WAV<Windows 95-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,9978,,9978,,,
+ 3,WI_MIN.WAV<Windows 95-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,38788,,38788,,,
+ 3,WI_QUEST.WAV<Windows 95-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,8336,,8336,,,
+ 3,WI_RESTD.WAV<Windows 95-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,13580,,13580,,,
+ 3,WI_RESTU.WAV<Windows 95-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,9992,,9992,,,
+ 3,WI_STOP.WAV<Windows 95-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,64038,,64038,,,
+
+[MT_Windows95_wav8]
+ 3,WI_ASTRX.WA8<Windows 95-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,7066,,7066,,,
+ 3,WI_BEEP.WA8<Windows 95-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,15652,,15652,,,
+ 3,WI_DEFAU.WA8<Windows 95-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,16160,,16160,,,
+ 3,WI_EMPTY.WA8<Windows 95-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,17100,,17100,,,
+ 3,WI_ERROR.WA8<Windows 95-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,18428,,18428,,,
+ 3,WI_EXCLA.WA8<Windows 95-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,8152,,8152,,,
+ 3,WI_EXIT.WA8<Windows 95-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,68890,,68890,,,
+ 3,WI_MAX.WA8<Windows 95-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6856,,6856,,,
+ 3,WI_MENU.WA8<Windows 95-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4330,,4330,,,
+ 3,WI_MENUC.WA8<Windows 95-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,6180,,6180,,,
+ 3,WI_MIN.WA8<Windows 95-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,7002,,7002,,,
+ 3,WI_QUEST.WA8<Windows 95-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,8336,,8336,,,
+ 3,WI_RESTD.WA8<Windows 95-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8024,,8024,,,
+ 3,WI_RESTU.WA8<Windows 95-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6188,,6188,,,
+ 3,WI_STOP.WA8<Windows 95-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,31318,,31318,,,
+
+[MT_Sixties_thm]
+ 3,SIXTIES.THM<Estados Unidos en los 60 (256 colores).theme>,,,,1995-08-24,,,,,,,,,SHARED,5775,,5775,,,
+
+[MT_Sixties_bmp]
+ 3,SX_WALL.JPG<Estados Unidos en los 60-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,94322,,94322,,,
+ 3,SX_WALL.PAL<Estados Unidos en los 60-Papel tapiz.Pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 3,SX_COMP.ICO<Estados Unidos en los 60-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,SX_NET.ICO<Estados Unidos en los 60-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,SX_RECYE.ICO<Estados Unidos en los 60-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,SX_RECYF.ICO<Estados Unidos en los 60-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+
+[MT_Sixties_cur]
+ 3,SX_BUSY.ANI<Estados Unidos en los 60-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,7860,,7860,,,
+ 3,SX_WAIT.ANI<Estados Unidos en los 60-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,4762,,4762,,,
+ 3,SX_ARROW.CUR<Estados Unidos en los 60-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_BEAM.CUR<Estados Unidos en los 60-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_CROSS.CUR<Estados Unidos en los 60-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_HELP.CUR<Estados Unidos en los 60-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_MOVE.CUR<Estados Unidos en los 60-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_NESW.CUR<Estados Unidos en los 60-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_NO.CUR<Estados Unidos en los 60-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_NS.CUR<Estados Unidos en los 60-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_NWSE.CUR<Estados Unidos en los 60-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_PEN.CUR<Estados Unidos en los 60-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_UP.CUR<Estados Unidos en los 60-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SX_WE.CUR<Estados Unidos en los 60-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+
+[MT_Sixties_scr]
+ 4,LENS.SCR<Estados Unidos en los 60.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,101888,SYSTEM,101888,,4.40.0.310,
+
+[MT_Sixties_ttf]
+"sx1" = 3,LHANDW.TTF,,,,1995-08-24,,,,,,,,,SHARED,56560,SYSTEM,56560,,1.1.0.0,
+"sx2" = 3,LSANSI.TTF,,,,1995-08-24,,,,,,,,,SHARED,59636,SYSTEM,59636,,1.1.0.0,
+
+[MT_Sixties_wav16]
+ 3,SX_ASTRX.WAV<Estados Unidos en los 60-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,24004,,24004,,,
+ 3,SX_BEEP.WAV<Estados Unidos en los 60-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,10982,,10982,,,
+ 3,SX_DEFAU.WAV<Estados Unidos en los 60-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,7664,,7664,,,
+ 3,SX_EMPTY.WAV<Estados Unidos en los 60-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,16870,,16870,,,
+ 3,SX_ERROR.WAV<Estados Unidos en los 60-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,20566,,20566,,,
+ 3,SX_EXCLA.WAV<Estados Unidos en los 60-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,24666,,24666,,,
+ 3,SX_EXIT.WAV<Estados Unidos en los 60-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,40670,,40670,,,
+ 3,SX_MAX.WAV<Estados Unidos en los 60-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,10166,,10166,,,
+ 3,SX_MENU.WAV<Estados Unidos en los 60-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4326,,4326,,,
+ 3,SX_MENUC.WAV<Estados Unidos en los 60-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,4180,,4180,,,
+ 3,SX_MIN.WAV<Estados Unidos en los 60-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,10164,,10164,,,
+ 3,SX_QUEST.WAV<Estados Unidos en los 60-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,20532,,20532,,,
+ 3,SX_RESTD.WAV<Estados Unidos en los 60-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,10244,,10244,,,
+ 3,SX_RESTU.WAV<Estados Unidos en los 60-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,11178,,11178,,,
+ 3,SX_START.WAV<Estados Unidos en los 60-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,66656,,66656,,,
+ 3,SX_STOP.WAV<Estados Unidos en los 60-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,9486,,9486,,,
+
+[MT_Sixties_wav8]
+ 3,SX_ASTRX.WA8<Estados Unidos en los 60-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,13170,,13170,,,
+ 3,SX_BEEP.WA8<Estados Unidos en los 60-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,6682,,6682,,,
+ 3,SX_DEFAU.WA8<Estados Unidos en los 60-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,5024,,5024,,,
+ 3,SX_EMPTY.WA8<Estados Unidos en los 60-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,16870,,16870,,,
+ 3,SX_ERROR.WA8<Estados Unidos en los 60-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,11474,,11474,,,
+ 3,SX_EXCLA.WA8<Estados Unidos en los 60-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,13524,,13524,,,
+ 3,SX_EXIT.WA8<Estados Unidos en los 60-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,21526,,21526,,,
+ 3,SX_MAX.WA8<Estados Unidos en los 60-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6274,,6274,,,
+ 3,SX_MENU.WA8<Estados Unidos en los 60-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,3354,,3354,,,
+ 3,SX_MENUC.WA8<Estados Unidos en los 60-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,3280,,3280,,,
+ 3,SX_MIN.WA8<Estados Unidos en los 60-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6274,,6274,,,
+ 3,SX_QUEST.WA8<Estados Unidos en los 60-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,11456,,11456,,,
+ 3,SX_RESTD.WA8<Estados Unidos en los 60-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6314,,6314,,,
+ 3,SX_RESTU.WA8<Estados Unidos en los 60-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6780,,6780,,,
+ 3,SX_START.WA8<Estados Unidos en los 60-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,34520,,34520,,,
+ 3,SX_STOP.WA8<Estados Unidos en los 60-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,5934,,5934,,,
+
+[MT_Science_thm]
+ 3,SCIENCE.THM<Ciencia (256 colores).theme>,,,,1995-08-24,,,,,,,,,SHARED,5156,,5156,,,
+
+[MT_Science_bmp]
+ 3,SC_WALL.JPG<Ciencia-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,107669,,107669,,,
+ 3,SC_WALL.PAL<Ciencia-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 3,SC_COMP.ICO<Ciencia-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,SC_NET.ICO<Ciencia-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,SC_RECYE.ICO<Ciencia-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 3,SC_RECYF.ICO<Ciencia-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+
+[MT_Science_cur]
+ 3,SC_BUSY.ANI<Ciencia-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,7808,,7808,,,
+ 3,SC_WAIT.ANI<Ciencia-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,7856,,7856,,,
+ 3,SC_ARROW.CUR<Ciencia-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SC_BEAM.CUR<Ciencia-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SC_CROSS.CUR<Ciencia-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SC_HELP.CUR<Ciencia-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 3,SC_MOVE.CUR<Ciencia-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,SC_NESW.CUR<Ciencia-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,SC_NO.CUR<Ciencia-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,SC_NS.CUR<Ciencia-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,SC_NWSE.CUR<Ciencia-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,SC_PEN.CUR<Ciencia-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,SC_UP.CUR<Ciencia-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,SC_WE.CUR<Ciencia-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+
+[MT_Science_scr]
+ 4,LENS.SCR<Ciencia.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,101888,SYSTEM,101888,,4.40.0.310,
+
+[MT_Science_ttf]
+"sc1" = 4,LSANSUNI.TTF,,,,1995-08-24,,,,,,,,,SHARED,304932,SYSTEM,304932,,0.98.0.0,
+
+[MT_Science_wav16]
+ 4,SC_ASTRX.WAV<Ciencia-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,15710,,15710,,,
+ 4,SC_BEEP.WAV<Ciencia-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,15506,,15506,,,
+ 4,SC_DEFAU.WAV<Ciencia-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,12662,,12662,,,
+ 4,SC_EMPTY.WAV<Ciencia-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,12122,,12122,,,
+ 4,SC_ERROR.WAV<Ciencia-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,10880,,10880,,,
+ 4,SC_EXCLA.WAV<Ciencia-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,30522,,30522,,,
+ 4,SC_EXIT.WAV<Ciencia-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,32742,,32742,,,
+ 4,SC_MAX.WAV<Ciencia-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,9440,,9440,,,
+ 4,SC_MENU.WAV<Ciencia-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,7320,,7320,,,
+ 4,SC_MENUC.WAV<Ciencia-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,7264,,7264,,,
+ 4,SC_MIN.WAV<Ciencia-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,9316,,9316,,,
+ 4,SC_QUEST.WAV<Ciencia-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,29952,,29952,,,
+ 4,SC_RESTD.WAV<Ciencia-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,10688,,10688,,,
+ 4,SC_RESTU.WAV<Ciencia-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,10742,,10742,,,
+ 4,SC_START.WAV<Ciencia-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,19836,,19836,,,
+ 4,SC_STOP.WAV<Ciencia-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,17642,,17642,,,
+
+[MT_Science_wav8]
+ 4,SC_ASTRX.WA8<Ciencia-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,9046,,9046,,,
+ 4,SC_BEEP.WA8<Ciencia-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,8944,,8944,,,
+ 4,SC_DEFAU.WA8<Ciencia-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,7522,,7522,,,
+ 4,SC_EMPTY.WA8<Ciencia-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,7252,,7252,,,
+ 4,SC_ERROR.WA8<Ciencia-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,6632,,6632,,,
+ 4,SC_EXCLA.WA8<Ciencia-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,16452,,16452,,,
+ 4,SC_EXIT.WA8<Ciencia-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,17562,,17562,,,
+ 4,SC_MAX.WA8<Ciencia-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,5912,,5912,,,
+ 4,SC_MENU.WA8<Ciencia-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4850,,4850,,,
+ 4,SC_MENUC.WA8<Ciencia-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,4822,,4822,,,
+ 4,SC_MIN.WA8<Ciencia-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,5850,,5850,,,
+ 4,SC_QUEST.WA8<Ciencia-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,29952,,29952,,,
+ 4,SC_RESTD.WA8<Ciencia-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6536,,6536,,,
+ 4,SC_RESTU.WA8<Ciencia-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6562,,6562,,,
+ 4,SC_START.WA8<Ciencia-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,11110,,11110,,,
+ 4,SC_STOP.WA8<Ciencia-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,10012,,10012,,,
+
+[MT_Dangerous_thm]
+ 4,DANGER~1.THM<Animales peligrosos (256 colores).theme>,,,,1995-08-24,,,,,,,,,SHARED,5523,,5523,,,
+
+[MT_Dangerous_bmp]
+ 4,DA_WALL.JPG<Animales peligrosos-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,99357,,99357,,,
+ 4,DA_WALL.PAL<Animales peligrosos-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 4,DA_COMP.ICO<Animales peligrosos-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 4,DA_NET.ICO<Animales peligrosos-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 4,DA_RECYE.ICO<Animales peligrosos-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 4,DA_RECYF.ICO<Animales peligrosos-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+
+[MT_Dangerous_cur]
+ 4,DA_BUSY.ANI<Animales peligrosos-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,4744,,4744,,,
+ 4,DA_WAIT.ANI<Animales peligrosos-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,4712,,4712,,,
+ 4,DA_ARROW.CUR<Animales peligrosos-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_BEAM.CUR<Animales peligrosos-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_CROSS.CUR<Animales peligrosos-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_HELP.CUR<Animales peligrosos-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_MOVE.CUR<Animales peligrosos-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_NESW.CUR<Animales peligrosos-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_NO.CUR<Animales peligrosos-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_NS.CUR<Animales peligrosos-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_NWSE.CUR<Animales peligrosos-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_PEN.CUR<Animales peligrosos-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_UP.CUR<Animales peligrosos-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DA_WE.CUR<Animales peligrosos-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+
+[MT_Dangerous_scr]
+ 4,DANGEROU.DLL<Animales peligrosos.dll>,,,,1995-08-24,,1034,,,,,,,SHARED,279040,SYSTEM,279040,,4.40.0.310,
+ 3,WL32SCR.EXE<Animales peligrosos.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_Dangerous_wav16]
+ 4,DA_ASTRX.WAV<Animales peligrosos-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,13782,,13782,,,
+ 4,DA_BEEP.WAV<Animales peligrosos-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,8746,,8746,,,
+ 4,DA_DEFAU.WAV<Animales peligrosos-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,20718,,20718,,,
+ 4,DA_EMPTY.WAV<Animales peligrosos-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,22474,,22474,,,
+ 4,DA_ERROR.WAV<Animales peligrosos-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,18914,,18914,,,
+ 4,DA_EXCLA.WAV<Animales peligrosos-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,9298,,9298,,,
+ 4,DA_MAX.WAV<Animales peligrosos-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,7064,,7064,,,
+ 4,DA_MENU.WAV<Animales peligrosos-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,5566,,5566,,,
+ 4,DA_MENUC.WAV<Animales peligrosos-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,10736,,10736,,,
+ 4,DA_MIN.WAV<Animales peligrosos-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8222,,8222,,,
+ 4,DA_QUEST.WAV<Animales peligrosos-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,15010,,15010,,,
+ 4,DA_START.WAV<Animales peligrosos-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,93144,,93144,,,
+ 4,DA_STOP.WAV<Animales peligrosos-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,10732,,10732,,,
+
+[MT_Dangerous_wav8]
+ 4,DA_ASTRX.WA8<Animales peligrosos-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,5982,,5982,,,
+ 4,DA_BEEP.WA8<Animales peligrosos-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,3464,,3464,,,
+ 4,DA_DEFAU.WA8<Animales peligrosos-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,9450,,9450,,,
+ 4,DA_EMPTY.WA8<Animales peligrosos-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,10328,,10328,,,
+ 4,DA_ERROR.WA8<Animales peligrosos-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,8548,,8548,,,
+ 4,DA_EXCLA.WA8<Animales peligrosos-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,3740,,3740,,,
+ 4,DA_MAX.WA8<Animales peligrosos-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,2624,,2624,,,
+ 4,DA_MENU.WA8<Animales peligrosos-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,1874,,1874,,,
+ 4,DA_MENUC.WA8<Animales peligrosos-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,4460,,4460,,,
+ 4,DA_MIN.WA8<Animales peligrosos-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,3202,,3202,,,
+ 4,DA_QUEST.WA8<Animales peligrosos-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,6596,,6596,,,
+ 4,DA_START.WA8<Animales peligrosos-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,45662,,45662,,,
+ 4,DA_STOP.WA8<Animales peligrosos-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,4456,,4456,,,
+
+[MT_Davinci_thm]
+ 4,DAVINCI.THM<Leonardo da Vinci (256 colores).theme>,,,,1995-08-24,,,,,,,,,SHARED,5510,,5510,,,
+
+[MT_Davinci_bmp]
+ 4,DV_WALL.JPG<Leonardo da Vinci-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,91336,,91336,,,
+ 4,DV_WALL.PAL<Leonardo da Vinci-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 4,DV_COMP.ICO<Leonardo da Vinci-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 4,DV_NET.ICO<Leonardo da Vinci-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 4,DV_RECYE.ICO<Leonardo da Vinci-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 4,DV_RECYF.ICO<Leonardo da Vinci-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+
+[MT_Davinci_cur]
+ 4,DV_BUSY.ANI<Leonardo da Vinci-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,7908,,7908,,,
+ 4,DV_WAIT.ANI<Leonardo da Vinci-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,10268,,10268,,,
+ 4,DV_ARROW.CUR<Leonardo da Vinci-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_BEAM.CUR<Leonardo da Vinci-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_BUSY.CUR<Leonardo da Vinci-Ocupado.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_CROSS.CUR<Leonardo da Vinci-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_HELP.CUR<Leonardo da Vinci-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_MOVE.CUR<Leonardo da Vinci-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_NESW.CUR<Leonardo da Vinci-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_NO.CUR<Leonardo da Vinci-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_NS.CUR<Leonardo da Vinci-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_NWSE.CUR<Leonardo da Vinci-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_PEN.CUR<Leonardo da Vinci-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_UP.CUR<Leonardo da Vinci-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_WAIT.CUR<Leonardo da Vinci-Esperar.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 4,DV_WE.CUR<Leonardo da Vinci-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+
+[MT_Davinci_scr]
+ 4,DAVINCI.DLL<Leonardo da Vinci.dll>,,,,1995-08-24,,1034,,,,,,,SHARED,910336,SYSTEM,910336,,4.40.0.310,
+ 3,WL32SCR.EXE<Leonardo da Vinci.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_Davinci_ttf]
+"dv1" = 4,BKANT.TTF,,,,1995-08-24,,,,,,,,,SHARED,65976,SYSTEM,65976,,1.25.0.0,
+
+[MT_Davinci_wav16]
+ 5,DV_ASTRX.WAV<Leonardo da Vinci-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,30604,,30604,,,
+ 5,DV_BEEP.WAV<Leonardo da Vinci-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,24646,,24646,,,
+ 5,DV_DEFAU.WAV<Leonardo da Vinci-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,7626,,7626,,,
+ 5,DV_EMPTY.WAV<Leonardo da Vinci-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,34890,,34890,,,
+ 5,DV_ERROR.WAV<Leonardo da Vinci-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,17198,,17198,,,
+ 5,DV_EXCLA.WAV<Leonardo da Vinci-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,14392,,14392,,,
+ 5,DV_MAX.WAV<Leonardo da Vinci-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,11696,,11696,,,
+ 5,DV_MENU.WAV<Leonardo da Vinci-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,6180,,6180,,,
+ 5,DV_MENUC.WAV<Leonardo da Vinci-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,14940,,14940,,,
+ 5,DV_MIN.WAV<Leonardo da Vinci-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,11448,,11448,,,
+ 5,DV_QUEST.WAV<Leonardo da Vinci-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,11866,,11866,,,
+ 5,DV_RESTD.WAV<Leonardo da Vinci-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,5696,,5696,,,
+ 5,DV_RESTU.WAV<Leonardo da Vinci-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,5860,,5860,,,
+ 5,DV_START.WAV<Leonardo da Vinci-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,27020,,27020,,,
+ 5,DV_STOP.WAV<Leonardo da Vinci-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,17072,,17072,,,
+
+[MT_Davinci_wav8]
+ 5,DV_ASTRX.WA8<Leonardo da Vinci-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,16492,,16492,,,
+ 5,DV_BEEP.WA8<Leonardo da Vinci-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,13514,,13514,,,
+ 5,DV_DEFAU.WA8<Leonardo da Vinci-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,5004,,5004,,,
+ 5,DV_EMPTY.WA8<Leonardo da Vinci-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,18636,,18636,,,
+ 5,DV_ERROR.WA8<Leonardo da Vinci-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,9790,,9790,,,
+ 5,DV_EXCLA.WA8<Leonardo da Vinci-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,8386,,8386,,,
+ 5,DV_MAX.WA8<Leonardo da Vinci-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,7038,,7038,,,
+ 5,DV_MENU.WA8<Leonardo da Vinci-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4280,,4280,,,
+ 5,DV_MENUC.WA8<Leonardo da Vinci-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,8662,,8662,,,
+ 5,DV_MIN.WA8<Leonardo da Vinci-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6916,,6916,,,
+ 5,DV_QUEST.WA8<Leonardo da Vinci-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,7124,,7124,,,
+ 5,DV_RESTD.WA8<Leonardo da Vinci-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,4040,,4040,,,
+ 5,DV_RESTU.WA8<Leonardo da Vinci-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,4120,,4120,,,
+ 5,DV_START.WA8<Leonardo da Vinci-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,14702,,14702,,,
+ 5,DV_STOP.WA8<Leonardo da Vinci-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,9726,,9726,,,
+
+[MT_Modern_thm]
+ 5,MODERNE.THM<Otros tiempos (alta densidad).theme>,,,,1995-08-24,,,,,,,,,SHARED,5327,,5327,,,
+
+[MT_Modern_bmp]
+ 5,MO_WALL.JPG<Otros tiempos-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,45220,,45220,,,
+ 5,MO_WALL.PAL<Otros tiempos-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 5,MO_COMP.ICO<Otros tiempos-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 5,MO_NET.ICO<Otros tiempos-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 5,MO_RECYE.ICO<Otros tiempos-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 5,MO_RECYF.ICO<Otros tiempos-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+
+[MT_Modern_cur]
+ 5,MO_BUSY.ANI<Otros tiempos-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,41540,,41540,,,
+ 5,MO_WAIT.ANI<Otros tiempos-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,37054,,37054,,,
+ 5,MO_ARROW.CUR<Otros tiempos-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_BEAM.CUR<Otros tiempos-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_CROSS.CUR<Otros tiempos-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_HELP.CUR<Otros tiempos-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_MOVE.CUR<Otros tiempos-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_NESW.CUR<Otros tiempos-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_NO.CUR<Otros tiempos-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_NS.CUR<Otros tiempos-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_NWSE.CUR<Otros tiempos-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_PEN.CUR<Otros tiempos-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_UP.CUR<Otros tiempos-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MO_WE.CUR<Otros tiempos-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+
+[MT_Modern_scr]
+ 5,MODERNE.DLL<Otros tiempos.dll>,,,,1995-08-24,,1033,,,,,,,SHARED,225280,SYSTEM,225280,,4.40.0.310,
+ 3,WL32SCR.EXE<Otros tiempos.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_Modern_ttf]
+"mo1" = 5,GOTHIC.TTF,,,,1995-08-24,,,,,,,,,SHARED,61280,SYSTEM,61280,,1.27.0.0,
+"mo2" = 5,GOTHICB.TTF,,,,1995-08-24,,,,,,,,,SHARED,53524,SYSTEM,53524,,1.1.0.0,
+"mo3" = 5,GOTHICBI.TTF,,,,1995-08-24,,,,,,,,,SHARED,56352,SYSTEM,56352,,1.1.0.0,
+"mo4" = 5,GOTHICI.TTF,,,,1995-08-24,,,,,,,,,SHARED,61156,SYSTEM,61156,,1.1.0.0,
+
+[MT_Modern_wav16]
+ 5,MO_ASTRX.WAV<Otros tiempos-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,10810,,10810,,,
+ 5,MO_BEEP.WAV<Otros tiempos-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,19194,,19194,,,
+ 5,MO_DEFAU.WAV<Otros tiempos-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,16066,,16066,,,
+ 5,MO_EMPTY.WAV<Otros tiempos-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,14856,,14856,,,
+ 5,MO_ERROR.WAV<Otros tiempos-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,21874,,21874,,,
+ 5,MO_EXCLA.WAV<Otros tiempos-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,12280,,12280,,,
+ 5,MO_EXIT.WAV<Otros tiempos-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,39156,,39156,,,
+ 5,MO_MAX.WAV<Otros tiempos-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,5478,,5478,,,
+ 5,MO_MENU.WAV<Otros tiempos-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4936,,4936,,,
+ 5,MO_MENUC.WAV<Otros tiempos-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,8804,,8804,,,
+ 5,MO_MIN.WAV<Otros tiempos-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6674,,6674,,,
+ 5,MO_QUEST.WAV<Otros tiempos-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,30848,,30848,,,
+ 5,MO_START.WAV<Otros tiempos-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,26936,,26936,,,
+ 5,MO_STOP.WAV<Otros tiempos-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,24924,,24924,,,
+
+[MT_Modern_wav8]
+ 5,MO_ASTRX.WA8<Otros tiempos-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,6596,,6596,,,
+ 5,MO_BEEP.WA8<Otros tiempos-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,10788,,10788,,,
+ 5,MO_DEFAU.WA8<Otros tiempos-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,9224,,9224,,,
+ 5,MO_EMPTY.WA8<Otros tiempos-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,8620,,8620,,,
+ 5,MO_ERROR.WA8<Otros tiempos-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,12128,,12128,,,
+ 5,MO_EXCLA.WA8<Otros tiempos-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,7332,,7332,,,
+ 5,MO_EXIT.WA8<Otros tiempos-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,20770,,20770,,,
+ 5,MO_MAX.WA8<Otros tiempos-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,3930,,3930,,,
+ 5,MO_MENU.WA8<Otros tiempos-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,3658,,3658,,,
+ 5,MO_MENUC.WA8<Otros tiempos-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,5594,,5594,,,
+ 5,MO_MIN.WA8<Otros tiempos-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,4528,,4528,,,
+ 5,MO_QUEST.WA8<Otros tiempos-pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,16614,,16614,,,
+ 5,MO_START.WA8<Otros tiempos-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,14658,,14658,,,
+ 5,MO_STOP.WA8<Otros tiempos-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,13654,,13654,,,
+
+[MT_Sports_thm]
+ 5,SPORTS.THM<Deportes (256 colores).theme>,,,,1995-08-24,,,,,,,,,SHARED,5151,,5151,,,
+
+[MT_Sports_bmp]
+ 5,SP_WALL.JPG<Deportes-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,90714,,90714,,,
+ 5,SP_WALL.PAL<Deportes-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 5,SP_COMP.ICO<Deportes-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 5,SP_NET.ICO<Deportes-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 5,SP_RECYE.ICO<Deportes-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+ 5,SP_RECYF.ICO<Deportes-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,2734,,2734,,,
+
+[MT_Sports_cur]
+ 5,SP_BUSY.ANI<Deportes-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,10266,,10266,,,
+ 5,SP_WAIT.ANI<Deportes-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,8684,,8684,,,
+ 5,SP_ARROW.CUR<Deportes-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_BEAM.CUR<Deportes-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_CROSS.CUR<Deportes-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_HELP.CUR<Deportes-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_MOVE.CUR<Deportes-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_NESW.CUR<Deportes-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_NO.CUR<Deportes-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_NS.CUR<Deportes-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_NWSE.CUR<Deportes-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_PEN.CUR<Deportes-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_UP.CUR<Deportes-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 5,SP_WE.CUR<Deportes-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+
+[MT_Sports_scr]
+ 5,SPORTS.DLL<Deportes.dll>,,,,1995-08-24,,1034,,,,,,,SHARED,182272,SYSTEM,182272,,4.40.0.310,
+ 3,WL32SCR.EXE<Deportes.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_Sports_ttf]
+"si1" = 5,OCRAEXT.TTF,,,,1995-08-24,,,,,,,,,SHARED,47996,SYSTEM,47996,,1.0.0.0,
+
+[MT_Sports_wav16]
+ 5,SP_ASTRX.WAV<Deportes-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,27856,,27856,,,
+ 5,SP_BEEP.WAV<Deportes-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,7164,,7164,,,
+ 5,SP_DEFAU.WAV<Deportes-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,10670,,10670,,,
+ 5,SP_EMPTY.WAV<Deportes-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,44214,,44214,,,
+ 5,SP_ERROR.WAV<Deportes-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,10800,,10800,,,
+ 5,SP_EXCLA.WAV<Deportes-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,42494,,42494,,,
+ 5,SP_EXIT.WAV<Deportes-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,31760,,31760,,,
+ 5,SP_MAX.WAV<Deportes-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,15284,,15284,,,
+ 5,SP_MENU.WAV<Deportes-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,6936,,6936,,,
+ 5,SP_MENUC.WAV<Deportes-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,7840,,7840,,,
+ 5,SP_MIN.WAV<Deportes-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,21616,,21616,,,
+ 5,SP_QUEST.WAV<Deportes-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,19930,,19930,,,
+ 5,SP_START.WAV<Deportes-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,54630,,54630,,,
+ 5,SP_STOP.WAV<Deportes-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,20876,,20876,,,
+
+[MT_Sports_wav8]
+ 5,SP_ASTRX.WA8<Deportes-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,15120,,15120,,,
+ 5,SP_BEEP.WA8<Deportes-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,4774,,4774,,,
+ 5,SP_DEFAU.WA8<Deportes-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,6526,,6526,,,
+ 5,SP_EMPTY.WA8<Deportes-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,23298,,23298,,,
+ 5,SP_ERROR.WA8<Deportes-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,6590,,6590,,,
+ 5,SP_EXCLA.WA8<Deportes-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,22438,,22438,,,
+ 5,SP_EXIT.WA8<Deportes-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,17070,,17070,,,
+ 5,SP_MAX.WA8<Deportes-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8832,,8832,,,
+ 5,SP_MENU.WA8<Deportes-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4660,,4660,,,
+ 5,SP_MENUC.WA8<Deportes-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,5110,,5110,,,
+ 5,SP_MIN.WA8<Deportes-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,12000,,12000,,,
+ 5,SP_QUEST.WA8<Deportes-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,11156,,11156,,,
+ 5,SP_START.WA8<Deportes-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,28506,,28506,,,
+ 5,SP_STOP.WA8<Deportes-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,11608,,11608,,,
+
+[MT_Mystery_thm]
+ 5,MYSTERY.THM<Misterio (alta densidad).theme>,,,,1995-08-24,,,,,,,,,SHARED,5154,,5154,,,
+
+[MT_Mystery_bmp]
+ 5,MY_WALL.JPG<Misterio-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,80213,,80213,,,
+ 5,MY_WALL.PAL<Misterio-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 5,MY_COMP.ICO<Misterio-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 5,MY_NET.ICO<Misterio-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 5,MY_RECYE.ICO<Misterio-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 5,MY_RECYF.ICO<Misterio-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+
+[MT_Mystery_cur]
+ 5,MY_BUSY.ANI<Misterio-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,13640,,13640,,,
+ 5,MY_WAIT.ANI<Misterio-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,22574,,22574,,,
+ 5,MY_ARROW.CUR<Misterio-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_BEAM.CUR<Misterio-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_CROSS.CUR<Misterio-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_HELP.CUR<Misterio-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_MOVE.CUR<Misterio-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_NESW.CUR<Misterio-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_NO.CUR<Misterio-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_NS.CUR<Misterio-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_NWSE.CUR<Misterio-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_PEN.CUR<Misterio-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_UP.CUR<Misterio-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 5,MY_WE.CUR<Misterio-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+
+[MT_Mystery_scr]
+ 5,MYSTERY.DLL<Misterio.dll>,,,,1995-08-24,,1033,,,,,,,SHARED,473088,SYSTEM,473088,,4.40.0.310,
+ 3,WL32SCR.EXE<Misterio.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_Mystery_ttf]
+"my1" = 5,CALIST.TTF,,,,1995-08-24,,,,,,,,,SHARED,70828,SYSTEM,70828,,1.0.0.0,
+
+[MT_Mystery_wav16]
+ 6,MY_ASTRX.WAV<Misterio-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,33290,,33290,,,
+ 6,MY_BEEP.WAV<Misterio-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,10534,,10534,,,
+ 6,MY_DEFAU.WAV<Misterio-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,26594,,26594,,,
+ 6,MY_EMPTY.WAV<Misterio-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,14470,,14470,,,
+ 6,MY_ERROR.WAV<Misterio-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,21536,,21536,,,
+ 6,MY_EXCLA.WAV<Misterio-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,37602,,37602,,,
+ 6,MY_EXIT.WAV<Misterio-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,33766,,33766,,,
+ 6,MY_MAX.WAV<Misterio-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,15432,,15432,,,
+ 6,MY_MENU.WAV<Misterio-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,7058,,7058,,,
+ 6,MY_MENUC.WAV<Misterio-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,13314,,13314,,,
+ 6,MY_MIN.WAV<Misterio-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,13458,,13458,,,
+ 6,MY_QUEST.WAV<Misterio-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,13960,,13960,,,
+ 6,MY_START.WAV<Misterio-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,64456,,64456,,,
+ 6,MY_STOP.WAV<Misterio-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,17364,,17364,,,
+
+[MT_Mystery_wav8]
+ 6,MY_ASTRX.WA8<Misterio-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,15736,,15736,,,
+ 6,MY_BEEP.WA8<Misterio-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,6458,,6458,,,
+ 6,MY_DEFAU.WA8<Misterio-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,14488,,14488,,,
+ 6,MY_EMPTY.WA8<Misterio-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,8426,,8426,,,
+ 6,MY_ERROR.WA8<Misterio-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,11958,,11958,,,
+ 6,MY_EXCLA.WA8<Misterio-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,19992,,19992,,,
+ 6,MY_EXIT.WA8<Misterio-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,18074,,18074,,,
+ 6,MY_MAX.WA8<Misterio-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8906,,8906,,,
+ 6,MY_MENU.WA8<Misterio-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4720,,4720,,,
+ 6,MY_MENUC.WA8<Misterio-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,7848,,7848,,,
+ 6,MY_MIN.WA8<Misterio-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,7920,,7920,,,
+ 6,MY_QUEST.WA8<Misterio-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,8172,,8172,,,
+ 6,MY_START.WA8<Misterio-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,33418,,33418,,,
+ 6,MY_STOP.WA8<Misterio-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,9874,,9874,,,
+
+[MT_PCinside_thm]
+ 6,PCINSIDE.THM<Dentro de su PC (alta densidad).theme>,,,,1995-08-24,,,,,,,,,SHARED,5484,,5484,,,
+
+[MT_PCinside_bmp]
+ 6,PC_WALL.JPG<Dentro de su PC-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,76769,,76769,,,
+ 6,PC_WALL.PAL<Dentro de su PC-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 6,PC_COMP.ICO<Dentro de su PC-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,PC_NET.ICO<Dentro de su PC-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,PC_RECYE.ICO<Dentro de su PC-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,PC_RECYF.ICO<Dentro de su PC-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+
+[MT_PCinside_cur]
+ 6,PC_BUSY.ANI<Dentro de su PC-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,20282,,20282,,,
+ 6,PC_WAIT.ANI<Dentro de su PC-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,18086,,18086,,,
+ 6,PC_ARROW.CUR<Dentro de su PC-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_BEAM.CUR<Dentro de su PC-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_CROSS.CUR<Dentro de su PC-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_HELP.CUR<Dentro de su PC-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_MOVE.CUR<Dentro de su PC-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_NESW.CUR<Dentro de su PC-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_NO.CUR<Dentro de su PC-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_NS.CUR<Dentro de su PC-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_NWSE.CUR<Dentro de su PC-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_PEN.CUR<Dentro de su PC-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_UP.CUR<Dentro de su PC-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,PC_WE.CUR<Dentro de su PC-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+
+[MT_PCinside_scr]
+ 6,PCINSIDE.DLL<Dentro de su PC.dll>,,,,1995-08-24,,1034,,,,,,,SHARED,191488,SYSTEM,191488,,4.40.0.310,
+ 3,WL32SCR.EXE<Dentro de su PC.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_PCinside_ttf]
+"pc1" = 6,ABALC.TTF,,,,1995-08-24,,,,,,,,,SHARED,65572,SYSTEM,65572,,1.0.0.0,
+
+[MT_PCinside_wav16]
+ 6,PC_ASTRX.WAV<Dentro de su PC-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,9006,,9006,,,
+ 6,PC_BEEP.WAV<Dentro de su PC-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,6418,,6418,,,
+ 6,PC_DEFAU.WAV<Dentro de su PC-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,7164,,7164,,,
+ 6,PC_EMPTY.WAV<Dentro de su PC-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,24318,,24318,,,
+ 6,PC_ERROR.WAV<Dentro de su PC-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,18368,,18368,,,
+ 6,PC_EXCLA.WAV<Dentro de su PC-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,14862,,14862,,,
+ 6,PC_EXIT.WAV<Dentro de su PC-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,27780,,27780,,,
+ 6,PC_MAX.WAV<Dentro de su PC-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,11524,,11524,,,
+ 6,PC_MENU.WAV<Dentro de su PC-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4896,,4896,,,
+ 6,PC_MENUC.WAV<Dentro de su PC-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,4176,,4176,,,
+ 6,PC_MIN.WAV<Dentro de su PC-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,11548,,11548,,,
+ 6,PC_QUEST.WAV<Dentro de su PC-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,18308,,18308,,,
+ 6,PC_RESTD.WAV<Dentro de su PC-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,9818,,9818,,,
+ 6,PC_RESTU.WAV<Dentro de su PC-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,10100,,10100,,,
+ 6,PC_START.WAV<Dentro de su PC-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,50162,,50162,,,
+ 6,PC_STOP.WAV<Dentro de su PC-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,12970,,12970,,,
+
+[MT_PCinside_wav8]
+ 6,PC_ASTRX.WA8<Dentro de su PC-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,5694,,5694,,,
+ 6,PC_BEEP.WA8<Dentro de su PC-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,4400,,4400,,,
+ 6,PC_DEFAU.WA8<Dentro de su PC-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,4772,,4772,,,
+ 6,PC_EMPTY.WA8<Dentro de su PC-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,13350,,13350,,,
+ 6,PC_ERROR.WA8<Dentro de su PC-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,10374,,10374,,,
+ 6,PC_EXCLA.WA8<Dentro de su PC-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,8622,,8622,,,
+ 6,PC_EXIT.WA8<Dentro de su PC-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,15082,,15082,,,
+ 6,PC_MAX.WA8<Dentro de su PC-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6954,,6954,,,
+ 6,PC_MENU.WA8<Dentro de su PC-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,3638,,3638,,,
+ 6,PC_MENUC.WA8<Dentro de su PC-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,3278,,3278,,,
+ 6,PC_MIN.WA8<Dentro de su PC-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6964,,6964,,,
+ 6,PC_QUEST.WA8<Dentro de su PC-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,10344,,10344,,,
+ 6,PC_RESTD.WA8<Dentro de su PC-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6100,,6100,,,
+ 6,PC_RESTU.WA8<Dentro de su PC-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6242,,6242,,,
+ 6,PC_START.WA8<Dentro de su PC-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,26272,,26272,,,
+ 6,PC_STOP.WA8<Dentro de su PC-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,7676,,7676,,,
+
+[MT_Nature_thm]
+ 6,NATURE.THM<Naturaleza (alta densidad).theme>,,,,1995-08-24,,,,,,,,,SHARED,5274,,5274,,,
+
+[MT_Nature_bmp]
+ 6,NA_WALL.JPG<Naturaleza-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,57803,,57803,,,
+ 6,NA_WALL.PAL<Naturaleza-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 6,NA_COMP.ICO<Naturaleza-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,NA_NET.ICO<Naturaleza-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,NA_RECYE.ICO<Naturaleza-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,NA_RECYF.ICO<Naturaleza-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+
+[MT_Nature_cur]
+ 6,NA_BUSY.ANI<Naturaleza-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,11298,,11298,,,
+ 6,NA_WAIT.ANI<Naturaleza-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,15842,,15842,,,
+ 6,NA_ARROW.CUR<Naturaleza-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 6,NA_BEAM.CUR<Naturaleza-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,766,,766,,,
+ 6,NA_BUSY.CUR<Naturaleza-Ocupado.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_CROSS.CUR<Naturaleza-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_HELP.CUR<Naturaleza-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_MOVE.CUR<Naturaleza-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_NESW.CUR<Naturaleza-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_NO.CUR<Naturaleza-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_NS.CUR<Naturaleza-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_NWSE.CUR<Naturaleza-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_PEN.CUR<Naturaleza-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_UP.CUR<Naturaleza-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_WAIT.CUR<Naturaleza-Esperar.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,NA_WE.CUR<Naturaleza-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+
+[MT_Nature_scr]
+ 6,NATURE.DLL<Naturaleza.dll>,,,,1995-08-24,,1033,,,,,,,SHARED,281088,SYSTEM,281088,,4.40.0.310,
+ 3,WL32SCR.EXE<Naturaleza.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_Nature_ttf]
+"na1" = 6,COPRGTB.TTF,,,,1995-08-24,,,,,,,,,SHARED,56096,SYSTEM,56096,,1.0.0.0,
+"na2" = 6,COPRGTL.TTF,,,,1995-08-24,,,,,,,,,SHARED,57224,SYSTEM,57224,,1.0.0.0,
+
+[MT_Nature_wav16]
+ 6,NA_ASTRX.WAV<Naturaleza-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,11106,,11106,,,
+ 6,NA_BEEP.WAV<Naturaleza-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,18580,,18580,,,
+ 6,NA_DEFAU.WAV<Naturaleza-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,10502,,10502,,,
+ 6,NA_EMPTY.WAV<Naturaleza-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,43478,,43478,,,
+ 6,NA_ERROR.WAV<Naturaleza-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,49316,,49316,,,
+ 6,NA_EXCLA.WAV<Naturaleza-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,15746,,15746,,,
+ 6,NA_EXIT.WAV<Naturaleza-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,48778,,48778,,,
+ 6,NA_MAX.WAV<Naturaleza-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6924,,6924,,,
+ 6,NA_MENU.WAV<Naturaleza-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4640,,4640,,,
+ 6,NA_MENUC.WAV<Naturaleza-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,9810,,9810,,,
+ 6,NA_MIN.WAV<Naturaleza-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,7790,,7790,,,
+ 6,NA_QUEST.WAV<Naturaleza-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,15050,,15050,,,
+ 6,NA_RESTD.WAV<Naturaleza-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,7400,,7400,,,
+ 6,NA_RESTU.WAV<Naturaleza-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,7842,,7842,,,
+ 6,NA_START.WAV<Naturaleza-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,74634,,74634,,,
+ 6,NA_STOP.WAV<Naturaleza-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,15538,,15538,,,
+
+[MT_Nature_wav8]
+ 6,NA_ASTRX.WA8<Naturaleza-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,6744,,6744,,,
+ 6,NA_BEEP.WA8<Naturaleza-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,10480,,10480,,,
+ 6,NA_DEFAU.WA8<Naturaleza-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,6442,,6442,,,
+ 6,NA_EMPTY.WA8<Naturaleza-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,22930,,22930,,,
+ 6,NA_ERROR.WA8<Naturaleza-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,25848,,25848,,,
+ 6,NA_EXCLA.WA8<Naturaleza-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,9064,,9064,,,
+ 6,NA_EXIT.WA8<Naturaleza-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,25580,,25580,,,
+ 6,NA_MAX.WA8<Naturaleza-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,4654,,4654,,,
+ 6,NA_MENU.WA8<Naturaleza-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,3512,,3512,,,
+ 6,NA_MENUC.WA8<Naturaleza-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,6096,,6096,,,
+ 6,NA_MIN.WA8<Naturaleza-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,5086,,5086,,,
+ 6,NA_QUEST.WA8<Naturaleza-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,8716,,8716,,,
+ 6,NA_RESTD.WA8<Naturaleza-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,4890,,4890,,,
+ 6,NA_RESTU.WA8<Naturaleza-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,5112,,5112,,,
+ 6,NA_START.WA8<Naturaleza-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,38508,,38508,,,
+ 6,NA_STOP.WA8<Naturaleza-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,8960,,8960,,,
+
+[MT_Travel_thm]
+ 6,TRAVEL.THM<Viaje (alta densidad).theme>,,,,1995-08-24,,,,,,,,,SHARED,5091,,5091,,,
+
+[MT_Travel_bmp]
+ 6,TR_WALL.JPG<Viaje-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,48791,,48791,,,
+ 6,TR_WALL.PAL<Viaje-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,728,,728,,,
+ 6,TR_COMP.ICO<Viaje-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,10506,,10506,,,
+ 6,TR_NET.ICO<Viaje-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,TR_RECYE.ICO<Viaje-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 6,TR_RECYF.ICO<Viaje-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+
+[MT_Travel_cur]
+ 6,TR_BUSY.ANI<Viaje-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,20788,,20788,,,
+ 6,TR_WAIT.ANI<Viaje-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,22576,,22576,,,
+ 6,TR_ARROW.CUR<Viaje-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_BEAM.CUR<Viaje-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_CROSS.CUR<Viaje-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_HELP.CUR<Viaje-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_MOVE.CUR<Viaje-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_NESW.CUR<Viaje-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_NO.CUR<Viaje-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_NS.CUR<Viaje-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_NWSE.CUR<Viaje-Ajuste diagonal 1.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_PEN.CUR<Viaje-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_UP.CUR<Viaje-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 6,TR_WE.CUR<Viaje-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+
+[MT_Travel_scr]
+ 6,TRAVEL.DLL<Viaje.dll>,,,,1995-08-24,,1034,,,,,,,SHARED,81408,SYSTEM,81408,,4.40.0.310,
+ 3,WL32SCR.EXE<Viaje.scr>,,,,1995-08-24,,1034,,,,,,,SHARED,38912,SYSTEM,38912,,4.40.0.310,
+
+[MT_Travel_ttf]
+"tr1" = 6,COMIC.TTF,,,,1995-08-24,,,,,,,,,SHARED,62152,SYSTEM,62152,,1.0.0.0,
+
+[MT_Travel_wav16]
+ 6,TR_ASTRX.WAV<Viaje-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,32758,,32758,,,
+ 6,TR_BEEP.WAV<Viaje-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,16814,,16814,,,
+ 6,TR_DEFAU.WAV<Viaje-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,12696,,12696,,,
+ 6,TR_EMPTY.WAV<Viaje-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,72138,,72138,,,
+ 6,TR_ERROR.WAV<Viaje-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,20432,,20432,,,
+ 6,TR_EXCLA.WAV<Viaje-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,15846,,15846,,,
+ 6,TR_EXIT.WAV<Viaje-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,29894,,29894,,,
+ 6,TR_MAX.WAV<Viaje-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,14956,,14956,,,
+ 6,TR_MENU.WAV<Viaje-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,4288,,4288,,,
+ 6,TR_MENUC.WAV<Viaje-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,7256,,7256,,,
+ 6,TR_MIN.WAV<Viaje-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,14786,,14786,,,
+ 6,TR_QUEST.WAV<Viaje-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,16350,,16350,,,
+ 6,TR_RESTD.WAV<Viaje-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6720,,6720,,,
+ 6,TR_RESTU.WAV<Viaje-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8146,,8146,,,
+ 6,TR_START.WAV<Viaje-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,23802,,23802,,,
+ 6,TR_STOP.WAV<Viaje-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,20674,,20674,,,
+
+[MT_Travel_wav8]
+ 6,TR_ASTRX.WA8<Viaje-Información.wav>,,,,1995-08-24,,,,,,,,,SHARED,17570,,17570,,,
+ 7,TR_BEEP.WA8<Viaje-Bip.wav>,,,,1995-08-24,,,,,,,,,SHARED,9598,,9598,,,
+ 7,TR_DEFAU.WA8<Viaje-Sonido predeterminado.wav>,,,,1995-08-24,,,,,,,,,SHARED,7540,,7540,,,
+ 7,TR_EMPTY.WA8<Viaje-Vaciar Papelera.wav>,,,,1995-08-24,,,,,,,,,SHARED,37260,,37260,,,
+ 7,TR_ERROR.WA8<Viaje-Error de programa.wav>,,,,1995-08-24,,,,,,,,,SHARED,11406,,11406,,,
+ 7,TR_EXCLA.WA8<Viaje-Exclamación.wav>,,,,1995-08-24,,,,,,,,,SHARED,9114,,9114,,,
+ 7,TR_EXIT.WA8<Viaje-Salir de Windows.wav>,,,,1995-08-24,,,,,,,,,SHARED,16138,,16138,,,
+ 7,TR_MAX.WA8<Viaje-Maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8670,,8670,,,
+ 7,TR_MENU.WA8<Viaje-Menú emergente.wav>,,,,1995-08-24,,,,,,,,,SHARED,3336,,3336,,,
+ 7,TR_MENUC.WA8<Viaje-Comando de menú.wav>,,,,1995-08-24,,,,,,,,,SHARED,4820,,4820,,,
+ 7,TR_MIN.WA8<Viaje-Minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8584,,8584,,,
+ 7,TR_QUEST.WA8<Viaje-Pregunta.wav>,,,,1995-08-24,,,,,,,,,SHARED,9366,,9366,,,
+ 7,TR_RESTD.WA8<Viaje-Restaurar después de maximizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,6720,,6720,,,
+ 7,TR_RESTU.WA8<Viaje-Restaurar después de minimizar.wav>,,,,1995-08-24,,,,,,,,,SHARED,8146,,8146,,,
+ 7,TR_START.WA8<Viaje-Inicio.wav>,,,,1995-08-24,,,,,,,,,SHARED,13092,,13092,,,
+ 7,TR_STOP.WA8<Viaje-Stop crítico.wav>,,,,1995-08-24,,,,,,,,,SHARED,11528,,11528,,,
+
+[MT_Windows95HC_thm]
+ 7,WIN95HC.THM<Más Windows (alta densidad).theme>,,,,1995-08-24,,,,,,,,,SHARED,5302,,5302,,,
+
+[MT_Windows95HC_bmp]
+ 7,WH_WALL.JPG<Más Windows-Papel tapiz.jpg>,,,,1995-08-24,,,,,,,,,SHARED,32034,,32034,,,
+ 7,WH_WALL.PAL<Más Windows-Papel tapiz.pal>,,,,1995-08-24,,,,,,,,,SHARED,1048,,1048,,,
+ 7,WH_COMP.ICO<Más Windows-Mi PC.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 7,WH_NET.ICO<Más Windows-Entorno de red.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 7,WH_RECYE.ICO<Más Windows-Papelera vacía.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+ 7,WH_RECYF.ICO<Más Windows-Papelera llena.ico>,,,,1995-08-24,,,,,,,,,SHARED,10134,,10134,,,
+
+[MT_Windows95HC_cur]
+ 7,WH_BUSY.ANI<Más Windows-Ocupado.ani>,,,,1995-08-24,,,,,,,,,SHARED,38292,,38292,,,
+ 7,WH_WAIT.ANI<Más Windows-Esperar.ani>,,,,1995-08-24,,,,,,,,,SHARED,38298,,38298,,,
+ 7,WH_ARROW.CUR<Más Windows-Puntero.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_BEAM.CUR<Más Windows-Selección de texto.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_CROSS.CUR<Más Windows-Selección de precisión.cur>,,,,1995-08-24,,,,,,,,,SHARED,1758,,1758,,,
+ 7,WH_HELP.CUR<Más Windows-Ayuda.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_MOVE.CUR<Más Windows-Mover.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_NESW.CUR<Más Windows-Ajuste diagonal 2.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_NO.CUR<Más Windows-No.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_NS.CUR<Más Windows-Ajuste vertical.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_NWSE.CUR<Más Windows-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_PEN.CUR<Más Windows-Lápiz.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_UP.CUR<Más Windows-Arriba.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+ 7,WH_WE.CUR<Más Windows-Ajuste horizontal.cur>,,,,1995-08-24,,,,,,,,,SHARED,2238,,2238,,,
+
+[end-of-file]

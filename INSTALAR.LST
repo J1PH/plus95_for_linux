@@ -1,0 +1,20 @@
+[Windows 95 Params]
+        WndTitle    = Instalación de Microsoft
+        WndMess     = Iniciando la instalación de Microsoft Plus! para Windows 95...
+        TmpDirSize  = 1500
+	TmpDirName  = ~pp.t
+	CabinetFile = PLUS_1.CAB
+        CmdLine     = acmsetup /T plus.stf  /S %s %s
+	DrvWinClass = Stuff-Shell
+        Require31   = Esta aplicación requiere Microsoft Windows 95.
+
+[Windows 95 Files]
+	@acmsetup.exe = acmsetup.exe
+	@acmsetup.hlp = acmsetup.hlp
+	@mssetup.dll  = mssetup.dll
+	@dskapi32.dll = dskapi32.dll
+	@dskapi16.dll = dskapi16.dll
+        @plus.dll     = plus.dll
+        @plus.stf     = plus.stf
+         plus.inf     = plus.inf
+

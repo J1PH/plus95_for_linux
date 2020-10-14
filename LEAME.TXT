@@ -1,0 +1,624 @@
+       --------------------------------------------------------
+               LEAME Microsoft Plus! para Windows 95  
+                          Agosto 1995            
+      --------------------------------------------------------
+            (c) Copyright Microsoft Corporation, 1995
+
+------------------------
+CÓMO USAR ESTE DOCUMENTO
+------------------------
+
+Para ver LEAME.TXT en la pantalla en el Bloc de notas 
+maximice la ventana Bloc de notas.
+
+Para imprimir LEAME.TXT, abra este documento en el 
+Bloc de notas o en otro procesador de texto y utilice
+el comando Imprimir del menú Archivo.
+
+
+---------
+CONTENIDO
+---------
+LISTA DE ARCHIVOS LEAME DE MICROSOFT PLUS!
+NOTAS SOBRE LA INSTALACIÓN DE MICROSOFT PLUS!
+AGENTE DEL SISTEMA
+SOLUCIÓN DE PROBLEMAS DE MEJORAS VISUALES
+OTROS PROGRAMAS DE MICROSOFT PLUS!
+
+
+LISTA DE ARCHIVOS LEAME DE MICROSOFT PLUS! 
+==========================================
+
+Además de LEAME.TXT, Microsoft Plus! contiene los siguientes
+archivos TXT o DOC:
+
+    DRVSPACE.TXT    Contiene información sobre el uso de la 
+                    compresión de disco DriveSpace 3 y el programa 
+		    de compresión de disco Agente de compresión.           
+
+    INTERNET.TXT    Contiene información útil para conectarse y
+		    examinar la red Internet. Esta archivo está
+                    en la carpeta que contiene los archivos  
+                    Internet de Microsoft Plus!.                     
+
+    SOPORTE.TXT     Contiene información adicional sobre soporte
+		    técnico de Microsoft Plus!.
+        
+    PINBALL.DOC     Explica cómo funciona el sistema de puntuación 
+		    del juego 3D Pinball y describe los componentes 
+                    de la mesa de Cadete Espacial. Para ver este
+		    documento, use el Bloc de notas u otro
+		    procesador de texto. Pinball.doc está en la 
+		    carpeta que contiene los archivos del juego 
+                    3D-Pinball.
+
+    SCRIPT.DOC      Describe el lenguaje de los comandos de 
+		    automatización del Acceso telefónico a redes.
+		    Consulte en este documento los comandos que
+		    puede usar para crear un archivo de comandos 
+		    para el Acceso telefónico a redes. Para ver 
+		    este documento necesita el Bloc de notas o 
+		    cualquier otro procesador de texto. Script.doc
+		    está en la carpeta que contiene los archivos
+		    del programa Microsoft Plus!.
+
+
+
+NOTAS SOBRE LA INSTALACIÓN DE MICROSOFT PLUS!
+=============================================
+
+Desinstalación de Microsoft Plus!
+---------------------------------
+
+Para quitar Microsoft Plus! de su PC:
+
+1. Haga clic en el botón Inicio, señale Configuración y haga
+   clic en el Panel de control.
+
+2. Haga doble clic en el icono Agregar o quitar programas.
+
+3. Haga clic en Microsoft Plus! para Windows 95 y luego en
+   Agregar o quitar.
+
+4. Haga clic en Quitar todos.
+
+
+Si se inicia Windows 95 desde una unidad de red
+-----------------------------------------------
+
+Si ejecuta Windows 95 desde una unidad de red no podrá
+instalar Microsoft Plus!. Para instalar Microsoft Plus!,  
+deberá instalar primero Windows 95 completo en el disco duro.
+
+
+No instale DriveSpace 3 si está utilizando Banyan Vines
+-------------------------------------------------------
+
+Si utiliza una conexión de red Banyan Vines, no instale
+el componente DriveSpace 3 de Microsoft Plus!. El 
+controlador de red Banyan requiere más memoria que la 
+que está disponible cuando está instalado DriveSpace 3.
+
+Para instalar Microsoft Plus! en un sistema con Banyan Vines,
+eliga instalación Personalizada y asegúrese de que no está
+seleccionada la casilla DriveSpace 3.
+
+Para obtener una versión actualizada de Banyan Vines, póngase 
+en contacto con el proveedor.
+
+
+Si reinstala Windows 95 después de instalar Microsoft Plus!
+-----------------------------------------------------------
+Si reinstala Win95 después de instalar Microsoft Plus!, los  
+iconos de escritorio de su PC se convierten de nuevo en los 
+iconos estándar de Windows 95. Para restaurar los iconos de 
+escritorio mejorados, vuelva a instalar Microsoft Plus! 
+después de instalar Windows 95.
+
+AGENTE DEL SISTEMA
+==================
+
+Inclusión de parámetros en la línea de comandos al definir el
+calendario de programas
+-------------------------------------------------------------
+
+Si la ruta de acceso a un programa del calendario incluye nombres
+de archivo largos, deberá escribir entre comillas la ruta y el nombre
+del programa. Para incluir parámetros en la línea de comandos, 
+escriba los parámetros después de las comillas.
+
+Por ejemplo:
+
+   "c:\archivos de programa\accesorios\programa.exe" /parám1 /parám2
+
+
+Si el programa no se ejecuta a la hora prevista
+-----------------------------------------------
+
+Si recibe una notificación de que el programa no se ejecutó a
+la hora prevista, puede ser por una de las siguientes razones:
+
+- Se ha apagado su PC.
+
+- Ha estado utilizando su equipo y el programa estaba previsto 
+  para ejecutarse mientras estaba inactivo.
+
+- Su PC estaba funcionando con baterías.
+
+- El Agente del sistema no encontró el archivo de programa 
+  especificado.
+
+Para comprobar que la información sobre el programa es correcta:
+
+1. Haga clic en el botón Inicio, señale Accesorios, señale 
+   Herramientas del sistema y haga clic en Agente del sistema.
+
+   NOTA: También puede hacer doble clic en el icono del Agente 
+   del sistema en la barra de tareas.
+
+2. Haga clic en el programa que no se ejecutó.
+
+3. En el menú Programa, haga clic en Propiedades.
+
+4. Asegúrese de que la información del cuadro de línea de comandos
+   es correcta. Vuelva a comprobar el nombre del archivo del programa.
+
+5. Si desea cambiar el calendario de forma que el programa se ejecute 
+   aunque su PC esté en uso o funcione con baterías, haga clic en 
+   Cambiar calendario y realice los cambios necesarios. 
+
+
+Ejecución de herramientas para disco mientras usan el disco otros programas
+---------------------------------------------------------------------------
+
+Los programas que escriben en su disco duro cuando no está usando
+su PC (tal como protectores de pantalla, programas de control del
+sistema o programas de correo electrónico) pueden causar problemas
+cuando se usa el Agente del sistema para ejecutar herramientas de
+disco. Por ejemplo, si el programa de correo electrónico transfiere 
+mensajes cada pocos minutos y en el calendario hay un programa de 
+herramientas de disco, puede que éste se reinicie una y otra vez 
+sin poder avanzar, o incluso que se cierre durante la ejecución.
+
+
+Cuando existe este problema:
+
+1. Defina el calendario de los programas de herramientas de disco de 
+   forma que se ejecuten a una hora en la está seguro de que no se 
+   ejecutan otros programas, como por ejemplo por la noche.
+
+2. Cuando termine de usar su PC, cierre todos los programas de 
+   correo electrónico o control del sistema que escriban con
+   regularidad en el disco.
+
+3. Si utiliza un protector de pantalla que escribe en el disco duro 
+   (por ejemplo, Microsoft Scenes), es conveniente que lo desactive
+   durante el tiempo previsto para la ejecución de herramientas de 
+   disco.
+
+
+Ejecución de programas previstos mientras usa juegos que utilizan joystick
+--------------------------------------------------------------------------
+
+El Agente del sistema no reconoce la actividad del joystick cuando
+comprueba si está utilizando su PC. Por lo tanto, si está previsto
+que algún programa se ejecute cuando no está usando su PC y está
+ejecutando un juego que usa joystick, el Agente del sistema ejecutará
+el programa previsto de todas formas, lo que puede reducir 
+considerablemente la velocidad de ejecución del juego. Para resolver
+este problema, suspenda el Agente del sistema para evitar que se
+ejecuten los programas previstos mientras juega.
+
+Para suspender el Agente del sistema:
+
+ > Haga clic con el botón secundario del mouse en el icono del Agente 
+   del sistema en la barra de tareas y haga clic en Suspender Agente 
+   del sistema.
+
+Cuando haya terminado de jugar, puede reanudar el Agente del sistema
+haciendo haciendo clic otra vez en Suspender Agente del sistema.
+
+
+Si el Agente del sistema no incluye la lista de programas previstos 
+-------------------------------------------------------------------
+
+Cuando la lista de programas del calendario no aparece en la ventana 
+del Agente del sistema, lo que suele ocurrir es que el Agente del 
+sistema no encuentra el archivo SAGE.DAT.
+
+La causa de este problema podría ser lo siguiente:
+
+ * Ejecutó un programa, como puede ser LFNBK.EXE, que modificó
+   temporal o permanentemente los nombres de archivo largos.
+
+ * El archivo se encuentra en una unidad que no estaba disponible 
+   cuando se inició el Agente del sistema (por ejemplo una unidad    
+   de red o una unidad extraíble).
+
+ * El archivo SAGE.DAT se ha borrado o movido accidentalmente.
+
+Para recuperar la lista de programas previstos:
+
+1. En el menú Avanzadas del Agente del sistema, seleccione Detener 
+   Agente del sistema.
+
+2. En el Explorador, elija Opciones en el menú Ver y compruebe
+   que está seleccionado Mostrar todos los archivos. 
+
+3. Copie el archivo SAGE.DAT de la carpeta C:\Archivos de programa
+   \Plus!\System a la carpeta C:\.
+
+4. El Explorador le preguntará si desea reemplazar la copia actual
+   del archivo C:\SAGE.DAT. Haga clic en Sí.
+
+5. Para reiniciar el Agente del sistema, haga clic en el botón 
+   Inicio, señale Programas, Accesorios y Herramientas del sistema, 
+   luego haga clic en Agente del sistema.
+
+Deberá aparecer ahora la lista de programas previstos.
+
+
+Si ScanDisk se detiene por un error, pero SCANDISK.LOG no indica ningún error
+----------------------------------------------------------------------------
+
+Si ScanDisk para Windows deja de comprobar las unidades y muestra
+el mensaje "Se ha cancelado la comprobación debido a un error (255)", 
+pero el archivo SCANDISK.LOG no informa de ningún error, puede ser
+debido a que ya no existen una o varias unidades.
+
+Por ejemplo, este problema puede aparecer si después de desacoplar 
+su equipo portátil, ScanDisk trata de comprobar todas sus unidades.
+O también cuando descomprime una unidad y ScanDisk está configurado
+para comprobarla.
+
+Para evitar este problema:
+
+1. Haga doble clic en el icono del Agente del sistema en la barra de
+   tareas.
+
+2. En la lista de programas del calendario haga clic en ScanDisk.
+
+3. En el menú Programa haga clic en Propiedades, y en el cuadro de
+   diálogo Propiedades haga clic en Configuración.
+
+4. En la lista de unidades cancele la selección de la unidad o 
+   unidades seleccionadas haciendo clic en otra unidad diferente. 
+   
+5. Haga clic en la unidad o unidades que desee que compruebe ScanDisk.
+
+
+SOLUCIÓN DE PROBLEMAS DE MEJORAS VISUALES
+=========================================
+
+Esta sección contiene sugerencias para la solución de los
+problemas de mejoras visuales de Microsoft Plus!. 
+
+Algunos de los problemas de esta sección son debidos a su
+vez a problemas de determinados controladores de vídeo. 
+Si tiene problemas con su controlador de vídeo, compruebe 
+si existe una versión actualizada del mismo en el disco de 
+la Biblioteca de controlador de Windows (WDL). Para informarse 
+sobre la forma de obtener y utilizar la WDL, consulte el 
+archivo VIDEO.TXT de Windows 95, que se encuentra en la 
+carpeta que contiene los archivos de Windows 95.
+
+Si utiliza varias configuraciones del sistema 
+---------------------------------------------
+
+Si ejecuta Microsoft Plus! en más de una configuración del
+sistema (por ejemplo, si tiene un equipo portátil con una
+estación de acoplamiento y ejecuta Microsoft Plus! tanto 
+acoplado como desacoplado), asegúrese de que el monitor está
+configurado para usar un mínimo de 256 colores. Si esto no
+es posible, no es aconsejable que use los temas de escritorio.
+
+
+Si los punteros del mouse no están animados
+-------------------------------------------
+
+Para usar punteros animados en Microsoft Plus!, deberá usar
+unidades de disco en modo protegido y una unidad de vídeo 
+compatible con Windows 95 que además de usar el controlador de 
+mapas de bits independientes del dispositivo (DIB) se ajuste 
+a alguno de los siguientes criterios:
+
+ - El controlador de vídeo está configurado para 256 o más 
+   colores y es compatible con punteros de colores.
+
+   -o-
+
+ - El controlador de vídeo permite a Windows 95 el acceso a su
+   memoria de forma lineal (tal como a través de un búfer de 
+   marco), proporcionando una mejor animación. 
+
+Los siguientes controladores de vídeo NO son compatible con 
+punteros de mouse animados:
+
+ - ATI Ultra (mach8)
+   Este controlador no es compatible con búferes de marco.
+
+ - Diamond Viper
+   Está basado en el estándar de vídeo de Windows 3.1.
+
+ - Adaptador de vídeo estándar (VGA)
+   Está basado en un estándar que se estableció antes de que se
+   desarrollasen los punteros animados.
+
+ - Super VGA
+   Está basado en un estándar que se estableció antes de que se
+   desarrollasen los punteros animados.
+
+Para determinar si está utilizando controladores de vídeo en modo
+protegido:
+
+1. Haga clic en el botón Inicio, señale Configuración y haga clic
+   en Panel de control.
+
+2. Haga doble clic en el icono Sistema.
+
+3. Seleccione la ficha Rendimiento, haga clic en Sistema de 
+   archivos y seleccione luego la ficha Solucionar problemas.
+
+4. Si "Desactivar los controladores de disco de 32 bits en modo 
+   protegido" NO está seleccionado, los controladores de disco que
+   utiliza están en modo protegido.
+
+Si el sistema cumple los requisitos anteriores, pero los punteros
+no están animados, compruebe si su PC tiene algún virus. La presencia
+de virus en el sector de arranque puede impedir la animación de los
+punteros.
+
+
+Si utiliza los temas de escritorio con programas que tienen su propia 
+paleta de colores 
+---------------------------------------------------------------------
+
+Si la pantalla está configurada para 256 colores y está utilizando un
+tema de escritorio, cuando pasa a otro programa (tal como Microsoft 
+Encarta, barra de accesos directos de Microsoft Office 95 (!), Autorun 
+y Multi-Media Catalog) que utiliza su propia paleta de colores, puede 
+que el papel tapiz centellee y adopte luego los colores de la paleta 
+del programa, de forma que los colores de la pantalla resulten extraños.
+
+Para resolver este problema, puede hacer lo siguiente:
+
+-- Cambiar la configuración de la Paleta de colores de la pantalla 
+   a Color de alta densidad. 
+   NOTA: Puede que tenga que adquirir VRAM adicional o reducir la
+   resolución de la pantalla para poder ejecutar en el modo de 
+   Color de alta densidad.
+
+-- Usar programas que no utilizan sus propias paletas de colores.
+
+-- Usar el papel tapiz, iconos y colores predeterminados de Windows en
+   lugar de usar los que vienen con los temas de escritorio.
+
+
+Si los punteros del mouse parpadean o dejan rastro al usar un tema
+------------------------------------------------------------------
+
+Es posible que en algunas pantallas los punteros del mouse parpadeen
+o dejen un "rastro" de puntos al moverse. Para evitarlo, use los 
+punteros predeterminados de Windows en lugar de los punteros del tema.
+
+Para utilizar los punteros predeterminados de Windows con un tema, 
+compruebe que la casilla Punteros del mouse no está seleccionada 
+cuando aplique el tema. Si ya está utilizando un tema, deberá 
+restaurar el escritorio a la configuración predeterminada de Windows 
+antes de utilizar un tema con los punteros predeterminados de Windows.
+
+Para restaurar el escritorio a la configuración predeterminada y usar
+luego los punteros predeterminados con un tema:
+
+1. Haga clic en el botón Inicio, señale Configuración y haga clic en 
+   Panel de control.
+
+2. Haga doble clic en el icono Temas de escritorio.
+
+3. En la lista Tema, haga clic en Predeterminado de Windows y luego
+   en Aplicar.
+
+4. En la lista Tema, haga clic en el tema que desee utilizar.
+
+5. Compruebe que la casilla Punteros del mouse no está seleccionada
+   y haga clic en Aceptar.
+
+
+Si los iconos de escritorio grandes aparecen mal definidos
+----------------------------------------------------------
+
+La presencia de iconos del escritorio grandes mal definidos o 
+con mala resolución se debe a que los programas correspondientes
+no proporcionan iconos grandes para utilizar con la opción de 
+pantalla Usar iconos grandes.
+
+Para mejorar el aspecto del escritorio es aconsejable que use
+los iconos de escritorio pequeños (estándar) en lugar de los 
+iconos grandes.
+
+Para dejar de usar iconos grandes:
+
+1. Haga clic en el escritorio con el botón secundario y seleccione
+   Propiedades.
+
+2. Haga clic en la ficha Plus!.
+
+3. Asegúrese de que la casilla Usar iconos grandes no está 
+   seleccionada.
+
+
+Si los iconos de escritorio aparecen borrosos
+---------------------------------------------
+
+Si utiliza un tema de escritorio y los iconos del escritorio no
+tienen un aspecto aceptable (son demasiado oscuros, borrosos o con
+sombreado no correcto), intente desactivar la aceleración
+de todos o algunos de los gráficos de la pantalla.
+
+Para desactivar la aceleración de los gráficos de la pantalla:
+
+1. Haga clic en el botón Inicio, señale Configuración y haga clic
+   en Panel de control.
+
+2. Haga doble clic en el icono Sistema.
+
+3. Seleccione la ficha Rendimiento y haga clic en Gráficos.
+
+4. Mueva el control deslizante Aceleración de hardware hacia Ninguna.
+
+   NOTA: Si vuelve a instalar Windows 95, el control deslizante se
+   reinicia volviendo a la posición predeterminada. En este caso deberá
+   repetir este procedimiento para desactivar la aceleración de gráficos.
+
+
+Si el programa Quicken versión 4.0 no se ve correctamente
+---------------------------------------------------------
+
+Si utiliza un tema de escritorio a la vez que Quicken versión 4.0, el 
+aspecto de la ventana de Quicken en la pantalla puede que no sea 
+adecuado. Para resolver este problema, utilice la configuración de 
+color predeterminada de Windows en lugar de la del tema. 
+
+Para aplicar la configuración de color de Windows después de que se
+ha seleccionado un tema:
+
+1. Con el botón derecho del mouse haga clic en cualquier lugar del 
+   escritorio, seleccione Propiedades y luego la ficha Apariencia.
+
+2. En la lista Combinación, haga clic en Estándar de Windows.
+
+Para conservar la combinación de colores de Windows cuando se 
+selecciona un nuevo tema:
+
+ > En la ventana Temas de escritorio, compruebe que la casilla
+   Colores no está seleccionada.
+
+
+Si usa Temas de escritorio junto con Perfiles de usuario
+--------------------------------------------------------
+
+Si su PC está configurado con diferentes perfiles de usuario 
+y uno de los usuarios selecciona un tema de escritorio determinado, 
+todos los demás usuarios de su PC verán los iconos y el protector 
+de pantalla asociados con dicho tema. Los otros elementos del tema
+de escritorio (tal como papel tapiz de fondo o colores de pantalla)
+se guardan de forma independiente para cada usuario. 
+
+
+OTROS PROGRAMAS DE MICROSOFT PLUS!
+==================================
+
+Esta sección contiene notas sobre otros programas de Microsoft Plus!.
+
+
+Uso del Acceso telefónico con programas de fax
+----------------------------------------------
+
+Cuando está activado, el Servidor de Acceso telefónico contesta 
+a todas las llamadas entrantes después del primer timbrazo. Esto
+evita que los programs de fax, tal como Microsoft Fax, contesten
+a las llamadas de fax entrantes.
+
+Para permitir que el programa de fax conteste a las llamadas de
+fax entrantes, desactive el Servidor de Acceso telefónico. 
+
+Para desactivar el Servidor de Acceso telefónico:
+
+1. En el escritorio, haga doble clic en Mi PC.
+
+2. Haga doble clic en el icono Acceso telefónico a redes.
+
+3. Haga clic en el menú Conexiones y luego en Servidor de Acceso 
+   telefónico.
+
+4. Haga clic en la opción No permitir acceso.
+
+
+Si el Acceso telefónico a redes no permite guardar la contraseña
+----------------------------------------------------------------
+
+Cuando hace una llamada a un equipo remoto mediante la conexión
+Acceso telefónico a redes, aparece el cuadro de diálogo Conectar
+con. Si la casilla Guardar contraseña no está activada:
+
+1. En el Panel de control, haga doble clic en el icono Red y haga
+   clic en Agregar.
+
+2. En el cuadro de diálogo Seleccionar tipo de componente de red,
+   seleccione Cliente y haga clic en Agregar.
+
+3. En la lista de fabricantes, seleccione Microsoft, haga clic en
+   Cliente para redes Microsoft y luego en Aceptar.
+
+4. Seleccione la ficha Identificación y escriba nombres únicos 
+   para su PC y grupo de trabajo.
+
+5. Reinicie su PC. (Cuando inicie su PC, Windows le 
+   pedirá un nombre de usuario y una contraseña para
+   conectarse al sistema. Si lo desea, puede dejar en 
+   blanco el espacio de la contraseña.)
+
+
+Si no puede conectarse con un servidor de Acceso telefónico de 
+Microsoft Plus! 
+--------------------------------------------------------------
+
+Si no es capaz de conectarse con un equipo que está configurado
+como servidor de Acceso telefónico de Microsoft Plus!, compruebe
+que su PC y el servidor usan un protocolo común aparte de TCP/IP
+(los servidores de Acceso telefónico no pueden dirigir TCP/IP).
+
+Para resolver este problema puede que sea necesario agregar a 
+uno o ambos equipos otro protocolo de red de Microsoft, tal como 
+Netbeui o IPX. Para agregar un protocolo:
+
+1. En el Panel de control, haga doble clic en el icono Red y 
+   luego en Agregar.
+
+2. En el cuadro de diálogo Seleccionar tipo de componente de red,
+   haga clic en Protocolo y luego en Agregar. 
+
+3. En la lista de fabricantes, haga clic en Microsoft y seleccione
+   el protocolo de red que desee.
+   
+
+Si tiene problemas con los efectos de sonido de 3D Pinball
+----------------------------------------------------------
+
+Si observa algún problema con los efectos de sonido de Pinball, 
+intente ejecutar el programa Wmconfig para solucionarlo. 
+
+1. Ejecute el programa Wmconfig.
+
+   Wmconfig está situado en la carpeta que contiene los archivos 
+   de 3D Pinball (generalmente en la carpeta C:\ARCHIVOS DE PROGRAMA
+   \PLUS!\PINBALL). 
+
+2. En Wmconfig, seleccione su tarjeta de sonido en la lista. Si no 
+   conoce cuál es su tarjeta de sonido o no la encuentra, haga clic
+   en Generic Option de la lista y haga clic en el botón
+   Test.
+
+   Para conocer cuál es su tarjeta de sonido, haga clic en Mi PC en
+   el escritorio, haga clic en Propiedades y seleccione la ficha
+   Administrador de dispositivos. A continuación, haga clic en el 
+   signo + a la izquierda de Controladores de sonido, de vídeo y de
+   juegos.
+
+3. Continúe probando las opciones de sonido Generic hasta conseguir
+   los efectos de sonido deseados. 
+
+4. Reinicie Pinball.
+
+
+Si el flipper derecho de 3D Pinball no funciona
+-----------------------------------------------
+
+Si juega Pinball con un teclado diferente del estadounidense, la
+tecla del impulsor derecho no tiene una configuración predeterminada,
+por lo que no funciona. Para resolver el problema:
+
+1. En 3D Pinball, haga clic en Opciones y luego en Controles.
+
+2. Cambie la configuración del impulsor derecho especificando la 
+   tecla deseada.

@@ -1,0 +1,7 @@
+[autorun]
+open = autorun.exe
+icon = plus.ico
+shell\install = &Instalar
+shell\install\command = Instalar.exe
+shell\relnotes = &Ver Leame
+shell\relnotes\command = notepad readme.txt
