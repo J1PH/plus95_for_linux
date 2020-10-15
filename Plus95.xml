@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
-<wallpapers>
-<wallpaper>
-<name>Architec</name>
-<name xml:lang="es">Arquitectura</name>
-<filename>/usr/share/backgrounds/Plu98/ar_wallp.jpg</filename>
-  <options>stretched</options>
-    <pcolor>#ffffff</pcolor>
-    <scolor>#000000</scolor>
-    <shade_type>solid</shade_type>
-</wallpaper>
+</wallpapers>
 <wallpaper>
 <name>Baseball</name>
 <name xml:lang="es">baseball</name>
 <name xml:lang="jp">野球</name>
-<filename>/usr/share/backgrounds/Plus98/Baseball.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Baseball.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -49,7 +40,7 @@
 <name>Dangerous Creatures</name>
 <name xml:lang="es">Criaturas Peligrosas</name>
 <name xml:lang="jp">危険動物</name>
-<filename>/usr/share/backgrounds/Plus98/Dangerous Creatures wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Dangerous Creatures wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -127,7 +118,7 @@
 <name>Jungle</name>
 <name xml:lang= "es" >Jungla</name>
 <name xml:lang= "jp" >ジャングル</name>
-<filename>/usr/share/backgrounds/Plus98/Jungle wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Jungle wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -136,7 +127,7 @@
 <wallpaper>
 <name>Leonardo da Vinci</name>
 <name xml:lang= "jp" >レオナルド ダ ビンチ</name>
-<filename>/usr/share/backgrounds/Plus98/Leonardo da Vinci wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Leonardo da Vinci wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -146,7 +137,7 @@
 <name>More Windows</name>
 <name xml:lang= "es" >Màs Windows</name>
 <name xml:lang= "jp" >モア Windows</name>
-<filename>/usr/share/backgrounds/Plus98/More Windows wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/More Windows wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -156,7 +147,7 @@
 <name>Mystery</name>
 <name xml:lang="es">Misterio</name>
 <name xml:lang= "jp">ミステリー</name>
-<filename>/usr/share/backgrounds/Plus98/Mystery wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Mystery wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -166,7 +157,7 @@
 <name>Nature</name>
 <name xml:lang="es">Naturaleza</name>
 <name xml:lang="jp">自然</name>
-<filename>/usr/share/backgrounds/Plus98/Nature wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Nature wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -208,7 +199,7 @@
 <name>Science</name>
 <name xml:lang="es">Ciencia</name>
 <name xml:lang="jp">サイエンス</name>
-<filename>/usr/share/backgrounds/Plus98/Science wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Science wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -218,7 +209,7 @@
 <name>Space</name>
 <name xml:lang="es">Espacio</name>
 <name xml:lang="jp">宇宙</name>
-<filename>/usr/share/backgrounds/Plus98/Space wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Space wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -228,7 +219,7 @@
 <name>Sports</name>
 <name xml:lang="es">Deportes</name>
 <name xml:lang="jp">スポーツ</name>
-<filename>/usr/share/backgrounds/Plus98/Sports wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Sports wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -238,7 +229,7 @@
 <name>The 60's USA</name>
 <name xml:lang="es">Estados Unidos en los 60's</name>
 <name xml:lang="jp">60 年代アメリカ</name>
-<filename>/usr/share/backgrounds/Plus98/The 60's USA wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/The 60's USA wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -248,7 +239,7 @@
 <name>The Golden Era</name>
 <name xml:lang="es">La Era de Oro</name>
 <name xml:lang="jp">黄金時代</name>
-<filename>/usr/share/backgrounds/Plus98/The Golden Era wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/The Golden Era wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -257,7 +248,7 @@
 <wallpaper>
 <name>Travel</name>
 <name xml:lang="es">Viaje</name>
-<filename>/usr/share/backgrounds/Plus98/Travel wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Travel wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -267,7 +258,7 @@
 <name>Underwater</name>
 <name xml:lang="es">Mundo Submarino</name>
 <name xml:lang="jp">海底</name>
-<filename>/usr/share/backgrounds/Plus98/Underwater wallpaper.jpg</filename>
+<filename>/usr/share/backgrounds/Plus95/Underwater wallpaper.jpg</filename>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
