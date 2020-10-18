@@ -11,7 +11,7 @@ cat ./OEM.inf
 sleep 3s
 echo "Searching for necessary files"
 find /usr/share/icons/ -"Windows 95"
-find /usr/share/themes/Redmon
+find /usr/share/themes/Redmond
 echo 
 echo "Copyring Files:"
 mkdir /usr/share/backgrounds/Plus95
