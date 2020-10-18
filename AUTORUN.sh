@@ -2,22 +2,22 @@
 paplay ./Setup.wav
 _menu()
 {
-echo Microsoft Plus98! Setup by leviatan_san
+echo Microsoft Plus95! Setup by leviatan_san
 echo =========================================================================
 echo   
 echo Welcome to Setup.
 echo 
 echo This portion of the Setup program prepares Leviatan_san
-echo Plus98! to run your computer.
+echo Plus95! to run your computer.
 echo 
-echo                *To set up plus98! now press 1.
+echo                *To set up plus95! now press 1.
 echo          *To quit Setup without installing Plus98!, press 4.
 echo
 echo
     echo "Do you select what you want to do?"
     echo
     echo "1) Continue"
-    echo "2) Uninstall Plus98!"
+    echo "2) Uninstall Plus95!"
     echo "3) Check Enough Space"
     echo "4) Exit"
     echo
@@ -43,8 +43,8 @@ do
     case $opc in
         1)
             _mostrarResultado $opc
-            chmod -x install.sh
-            sh ./install.sh
+            chmod -x EXTRACT.sh
+            sh ./EXTRACT.sh
             _menu
             ;;
         2)
