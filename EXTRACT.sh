@@ -14,11 +14,12 @@ find /usr/share/icons/ -"Windows 95"
 echo 
 echo "Copyring Files:"
 mkdir /usr/share/backgrounds/Plus95
-mkdir /usr/share/fonts/Win95
+mkdir /usr/share/fonts/TTF/Win95
 tar -xvf PLUS_2.TAR -C /usr/share/icons/
 tar -xvf PLUS_3.TAR -C /usr/share/themes
 tar -xvf PLUS_4.TAR -C /usr/share/sounds
 tar -xvf PLUS_5.TAR -C /usr/share/backgrounds
+tar -xvf PLUS_6.TAR -C /usr/share/fonts/TTF/Win95
 sleep 2s
 
 echo "Installed components are being updated"
