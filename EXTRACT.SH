@@ -4,16 +4,17 @@ lsb_release -i
 sleep 3s
 echo "[OK]"
 clear
-echo "Starting Setup]"
+echo "Starting Setup..."
 sleep 4s
 echo "Checking Valid Product Serial"
 cat ./OEM.inf
 sleep 3s
 echo "Searching for necessary files"
-find /usr/share/icons/ -"Windows 95"
+ls -al |grep TAR |wc -l
+find /usr/share/icons/"Windows 95"
 find /usr/share/themes/Redmond
 echo 
-echo "Copyring Files:"
+echo "Copyring Files:$(wc -l)"
 mkdir /usr/share/backgrounds/Plus95
 mkdir /usr/share/fonts/TTF/Win95
 tar -xvf PLUS_2.TAR -C /usr/share/icons/
