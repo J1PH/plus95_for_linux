@@ -2,7 +2,7 @@
 paplay ./Setup.wav
 _menu()
 {
-echo Microsoft Plus95! Setup by leviatan_san
+echo Microsoft Plus95! Setup by j1ph
 echo =========================================================================
 echo   
 echo Welcome to Setup.
@@ -55,7 +55,7 @@ do
             ;;
         3)
             _mostrarResultado $opc
-            df /dev/sda1
+            df /dev/null
             _menu
             ;;
         4)
