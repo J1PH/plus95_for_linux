@@ -13,10 +13,16 @@ echo "Searching for necessary files"
 ls -al |grep TAR |wc -l
 find /usr/share/icons/"Windows 95"
 find /usr/share/themes/Redmond
+clear
 echo "Preparating Copyring Files..."
 pause 5s
+clear
 echo 
 echo "Copyring Files:$(wc -l)"
+echo "PLUS95.DLL /usr/etc/bin/"
+echo "THEMES.EXE /usr/etc/bin/"
+echo "PLUS95.INF /usr/etc/bin/"
+echo "MYSTERY.SCR /usr/shared/screensaver"
 mkdir /usr/share/backgrounds/Plus95
 mkdir /usr/share/fonts/TTF/Win95
 tar -xvf PLUS_2.TAR -C /usr/share/icons/
