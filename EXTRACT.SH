@@ -13,6 +13,8 @@ echo "Searching for necessary files"
 ls -al |grep TAR |wc -l
 find /usr/share/icons/"Windows 95"
 find /usr/share/themes/Redmond
+echo "Preparating Copyring Files..."
+pause 5s
 echo 
 echo "Copyring Files:$(wc -l)"
 mkdir /usr/share/backgrounds/Plus95
