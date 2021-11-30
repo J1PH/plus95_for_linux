@@ -12,13 +12,14 @@ sleep 3s
 echo "Searching for necessary files"
 find /usr/share/icons/ -"Windows 95"
 echo 
-echo "Copyring Files:"
+echo "Copyring Files:$(wc -l)"
 mkdir /usr/share/backgrounds/Plus95
 mkdir /usr/share/fonts/Win95
 tar -x -v -f PLUS_1.CAB /usr/share/fonts/Win95
 tar -x -v -f PLUS_2.CAB /usr/share/fonts/Win95
 tar -x -v -f PLUS_3.CAB /usr/share/backgrounds/Plus95
 tar -x -v -f PLUS_4.CAB /usr/share/gnome-backgrounds-propetari
+tar -x -v -f PLUS_5.CAB
 
 sleep 2s
 
